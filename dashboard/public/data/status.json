@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-07-16T14:19:53.039631+02:00",
+  "attempted_at": "2026-07-16T13:32:44.498243+00:00",
   "status": "success",
-  "last_successful_at": "2026-07-16T14:19:53.039631+02:00",
-  "actions_run_url": null,
+  "last_successful_at": "2026-07-16T13:32:44.498243+00:00",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/29502598648",
   "errors": []
 }

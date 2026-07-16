@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-16T14:19:53.039631+02:00",
+  "generated_at": "2026-07-16T13:32:44.498243+00:00",
   "status": "success",
-  "last_successful_at": "2026-07-16T14:19:53.039631+02:00",
-  "actions_run_url": null,
+  "last_successful_at": "2026-07-16T13:32:44.498243+00:00",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/29502598648",
   "targets": [
     "CLA",
     "GE"
@@ -1219,7 +1219,7 @@
     {
       "identifier": "1260105",
       "specialty": "UEE",
-      "institution": "iera scola",
+      "institution": "scola iera",
       "municipality": "Piera",
       "vacancies": 1.0,
       "deadline": null,
@@ -1323,7 +1323,7 @@
     {
       "identifier": "1260113",
       "specialty": "UES",
-      "institution": "ant scolaQuintí de Mediona",
+      "institution": "scola ant Quintí de Mediona",
       "municipality": "Sant Quintí de Mediona",
       "vacancies": 1.0,
       "deadline": null,
@@ -1336,7 +1336,7 @@
     {
       "identifier": "1260114",
       "specialty": "ALP",
-      "institution": "acint scola Verdaguer",
+      "institution": "scola acint Verdaguer",
       "municipality": "Sant Sadurní d'Anoia",
       "vacancies": 0.5,
       "deadline": null,
@@ -2613,7 +2613,92 @@
   "changes": {
     "added": [],
     "removed": [],
-    "updated": []
+    "updated": [
+      {
+        "before": {
+          "identifier": "1260114",
+          "specialty": "ALP",
+          "institution": "acint scola Verdaguer",
+          "municipality": "Sant Sadurní d'Anoia",
+          "vacancies": 0.5,
+          "deadline": null,
+          "region": "Penedès",
+          "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+          "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+          "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "document_status": "sense canvis"
+        },
+        "after": {
+          "identifier": "1260114",
+          "specialty": "ALP",
+          "institution": "scola acint Verdaguer",
+          "municipality": "Sant Sadurní d'Anoia",
+          "vacancies": 0.5,
+          "deadline": null,
+          "region": "Penedès",
+          "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+          "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+          "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "document_status": "sense canvis"
+        }
+      },
+      {
+        "before": {
+          "identifier": "1260105",
+          "specialty": "UEE",
+          "institution": "iera scola",
+          "municipality": "Piera",
+          "vacancies": 1.0,
+          "deadline": null,
+          "region": "Penedès",
+          "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+          "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+          "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "document_status": "sense canvis"
+        },
+        "after": {
+          "identifier": "1260105",
+          "specialty": "UEE",
+          "institution": "scola iera",
+          "municipality": "Piera",
+          "vacancies": 1.0,
+          "deadline": null,
+          "region": "Penedès",
+          "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+          "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+          "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "document_status": "sense canvis"
+        }
+      },
+      {
+        "before": {
+          "identifier": "1260113",
+          "specialty": "UES",
+          "institution": "ant scolaQuintí de Mediona",
+          "municipality": "Sant Quintí de Mediona",
+          "vacancies": 1.0,
+          "deadline": null,
+          "region": "Penedès",
+          "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+          "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+          "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "document_status": "sense canvis"
+        },
+        "after": {
+          "identifier": "1260113",
+          "specialty": "UES",
+          "institution": "scola ant Quintí de Mediona",
+          "municipality": "Sant Quintí de Mediona",
+          "vacancies": 1.0,
+          "deadline": null,
+          "region": "Penedès",
+          "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+          "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+          "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "document_status": "sense canvis"
+        }
+      }
+    ]
   },
   "collection": {
     "regions": [
