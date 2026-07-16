@@ -1,0 +1,74 @@
+name: Actualitza i publica el dashboard
+
+on:
+  schedule:
+    - cron: "5 15 * * *"
+      timezone: "Europe/Paris"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - "dashboard/public/data/**"
+      - "dashboard/state.json"
+      - "README.md"
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descarrega el projecte
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instal·la Poppler
+        run: sudo apt-get update && sudo apt-get install --yes poppler-utils
+
+      - name: Executa les proves
+        run: python -m unittest discover -s tests -v
+
+      - name: Genera el dashboard
+        run: python build_dashboard.py --output _site
+
+      - name: Desa l’estat i l’historial
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dashboard/state.json dashboard/public/data
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(data): actualitza l'informe diari"
+            git push
+          fi
+
+      - name: Configura GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Carrega l’artefacte de Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publica GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

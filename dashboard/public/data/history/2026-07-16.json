@@ -1,0 +1,2828 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-16T14:19:53.039631+02:00",
+  "status": "success",
+  "last_successful_at": "2026-07-16T14:19:53.039631+02:00",
+  "actions_run_url": null,
+  "targets": [
+    "CLA",
+    "GE"
+  ],
+  "summary": {
+    "offers_count": 162,
+    "vacancies_total": 170.5,
+    "active_regions": 5,
+    "documents": {
+      "new": 0,
+      "updated": 0,
+      "unchanged": 34,
+      "error": 0,
+      "removed": 0
+    },
+    "top_specialties": [
+      {
+        "code": "ALP",
+        "count": 31
+      },
+      {
+        "code": "PSI",
+        "count": 23
+      },
+      {
+        "code": "UES",
+        "count": 20
+      }
+    ],
+    "interesting_count": 1,
+    "interesting_by_specialty": {
+      "GE": 1
+    }
+  },
+  "regions": [
+    {
+      "name": "Tarragona",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 24,
+      "vacancies_total": 23.0,
+      "top_specialties": [
+        {
+          "code": "PSI",
+          "count": 7
+        },
+        {
+          "code": "UES",
+          "count": 5
+        },
+        {
+          "code": "ALS",
+          "count": 2
+        }
+      ],
+      "specialties": {
+        "PSI": 7,
+        "UES": 5,
+        "ALS": 2,
+        "SMA": 2,
+        "SCO": 1,
+        "455": 1,
+        "485": 1,
+        "474": 1,
+        "475": 1,
+        "481": 1,
+        "471": 1,
+        "488": 1
+      },
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [
+        {
+          "title": "Oferta de vacants.",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Penedès",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 65,
+      "vacancies_total": 58.5,
+      "top_specialties": [
+        {
+          "code": "ALP",
+          "count": 17
+        },
+        {
+          "code": "UES",
+          "count": 14
+        },
+        {
+          "code": "UEE",
+          "count": 10
+        }
+      ],
+      "specialties": {
+        "ALP": 17,
+        "UES": 14,
+        "UEE": 10,
+        "ALS": 7,
+        "PSI": 4,
+        "ADC": 2,
+        "476": 2,
+        "F75": 1,
+        "F61": 1,
+        "EES": 1,
+        "SRP": 1,
+        "F74": 1,
+        "F65": 1,
+        "AIP": 1,
+        "471": 1,
+        "F58": 1
+      },
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [
+        {
+          "title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Baix Llobregat",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 0,
+      "vacancies_total": null,
+      "top_specialties": [],
+      "specialties": {},
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [
+        {
+          "title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "status": "sense canvis",
+          "note": "El PDF publicat és un formulari buit: actualment no hi consta cap oferta.",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Barcelonès",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 35,
+      "vacancies_total": 43.0,
+      "top_specialties": [
+        {
+          "code": "ALP",
+          "count": 14
+        },
+        {
+          "code": "UEE",
+          "count": 10
+        },
+        {
+          "code": "PSI",
+          "count": 4
+        }
+      ],
+      "specialties": {
+        "ALP": 14,
+        "UEE": 10,
+        "PSI": 4,
+        "EES": 2,
+        "ADC": 2,
+        "UES": 1,
+        "ALS": 1,
+        "No especificada": 1
+      },
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [
+        {
+          "title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "Serveis Educatius - 14/07/2026",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Terres de l’Ebre",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 11,
+      "vacancies_total": 16.0,
+      "top_specialties": [
+        {
+          "code": "PSI",
+          "count": 6
+        },
+        {
+          "code": "509",
+          "count": 2
+        },
+        {
+          "code": "610",
+          "count": 1
+        }
+      ],
+      "specialties": {
+        "PSI": 6,
+        "509": 2,
+        "610": 1,
+        "AN": 1,
+        "EF": 1
+      },
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [
+        {
+          "title": "Oferta de vacants o substitucions",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Barcelona — Consorci d’Educació",
+      "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "offers_count": 27,
+      "vacancies_total": 30.0,
+      "top_specialties": [
+        {
+          "code": "SIEI",
+          "count": 15
+        },
+        {
+          "code": "PSI",
+          "count": 2
+        },
+        {
+          "code": "AN",
+          "count": 1
+        }
+      ],
+      "specialties": {
+        "SIEI": 15,
+        "PSI": 2,
+        "AN": 1,
+        "Mestre/a Ed. Primària": 1,
+        "Tècnic/a per al Servei d’Orientació (Pla Jove)": 1,
+        "REINICIA’t (4 vacants)": 1,
+        "GE": 1,
+        "Mestre/a PRI / PEF / PAN / EES": 1,
+        "PMU": 1,
+        "IPS": 1,
+        "PRIMÀRIA + LSC (Llengua de Signes)": 1,
+        "EES": 1
+      },
+      "interesting_count": 1,
+      "interesting_by_specialty": {
+        "GE": 1
+      },
+      "documents": [
+        {
+          "title": "GENSEC_2627_106 — AN-TIC – Anglès amb perfil Competència digital",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_106_I.E._TRINITAT_NOVA_AN_TIC.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_044 — Mestre/a Ed. Primària",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_44_CRP_SANT_MARTI_PRI.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENSEC_2627_107 — PSI – Orientació Educativa",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_107_SIEI_DIVERSOS_CENTRES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "MUNSEC_2627_006 — Tècnic/a per al Servei d’Orientació (Pla Jove)",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_6_Pla_Jove.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "MUNSEC_2627_005 — REINICIA’t (4 vacants)",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_5_REINICIAT.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_043 — SIEI / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_43_EL_TURO_SIEI.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENSEC_2627_105 — GE / CN / AN / TEC / 519 / LC",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_105_SE_Cda.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_042 — Mestre/a PRI / PEF / PAN / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_42_SE_Cda_PRI.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENSEC_2627_104 — PSI – Orientació educativa",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_104_CEE_LEXIA_PSI.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_041 — PMU",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_040 — SIEI / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_40_FRUCTUOS_GELABERT_SIEI_EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_039 — SIEI / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_39_ESCOLA_DE_LES_AIGUES_SIEI_EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_038 — SIEI / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_38_DOVELLA_SIEI_EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_037 — SIEI+ / ALL",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_37_FERRAN_SUNYER_SIEI__ALL.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_036 — SIEI+ / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_36_FERRAN_SUNYER_SIEI__EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_035 — SIEI+ / ALL",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_35_DOCTOR_FERRAN_I_CLUA_SIEI__ALL.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_034 — SIEI+ / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_34_DOCTOR_FERRAN_I_CLUA_SIEI__EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_033 — SIEI+ / ALL",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_33_CALDERON_DE_LA_BARCA_SIEI__ALL.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_032 — SIEI+ / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_32_CALDERON_DE_LA_BARCA_SIEI__EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_031 — SIEI+ / ALL",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_31_LA_PALMERA_ALL_SIEIPLUS.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_030 — SIEI+ / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_30_LA_PALMERA_EES_SIEIPLUS.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_029 — SIEI+ / ALL",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_29_E._PEGASO_SIEI_ALL.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_028 — SIEI+ / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_28_E._PEGASO_SIEI_EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_027 — SIEI / EES",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_27_E._MARE_DE_DEU_DE_MONTSERRAT_SIEI_EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENSEC_2627_075 — IPS Orientació educativa (IFE)",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_75_Ins_Poblenou_IPS.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "MUNPRI_2627_001 — PRIMÀRIA + LSC (Llengua de Signes)",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_1_Escola_Tres_Pins_PRI_LSC.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_024 — EES – Educació especial",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_24_CEE_LEXIA_EES.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    }
+  ],
+  "offers": [
+    {
+      "identifier": "43-43007658",
+      "specialty": "UES",
+      "institution": "Joan Guinjoan i Gispert",
+      "municipality": "Riudoms 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "44-43008390",
+      "specialty": "UES",
+      "institution": "Torreforta",
+      "municipality": "Tarragona 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "45-43007208",
+      "specialty": "UES",
+      "institution": "Berenguer d'Entença",
+      "municipality": "Vandellós i Hospitalet de l'infant 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "46-43002570",
+      "specialty": "UES",
+      "institution": "Gaudí",
+      "municipality": "Reus 0,5",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "47-43002570",
+      "specialty": "UES",
+      "institution": "Gaudí",
+      "municipality": "Reus 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "48-43002570",
+      "specialty": "ALS",
+      "institution": "Gaudí",
+      "municipality": "Reus 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "49-43007166",
+      "specialty": "ALS",
+      "institution": "Domènech i Montaner",
+      "municipality": "Reus 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "50-43907119",
+      "specialty": "PSI",
+      "institution": "EAP T-02 Baix Camp",
+      "municipality": "Cambrils 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "51-43907126",
+      "specialty": "PSI",
+      "institution": "EAP T-09 Reus",
+      "municipality": "Reus 2",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "52-43907121",
+      "specialty": "PSI",
+      "institution": "EAP T-04 Tarragonès (Sector A) Ta",
+      "municipality": "rragona 2",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "53-43907124",
+      "specialty": "PSI",
+      "institution": "EAP T-07 Tarragonès (Sector B) Ta",
+      "municipality": "rragona 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "54-43907118",
+      "specialty": "PSI",
+      "institution": "EAP T-01 Alt Camp",
+      "municipality": "Valls 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "55-43010499",
+      "specialty": "SCO",
+      "institution": "CFA Pau Casals",
+      "municipality": "El Catllar 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "56-43010499",
+      "specialty": "SMA",
+      "institution": "CFA Pau Casals",
+      "municipality": "El Catllar 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "57-43010499",
+      "specialty": "PSI",
+      "institution": "CFA Pau Casals",
+      "municipality": "El Catllar 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "58-43900003",
+      "specialty": "PSI",
+      "institution": "Atenció domiciliària ST 0143 Tarr",
+      "municipality": "agona Tarragona 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "59-43900035",
+      "specialty": "SMA",
+      "institution": "CdA Monestirs del Císter selecció, es valorarà s de suport educatiu. uport educatiu. s específics. ativa. s. s. de carrera, en pràctiques o inte 8 punts per mes complet. oc (màxim 10 punts) mb el lloc: 2 punts. ocent. unts) 5 punts) 8 punts per mes complet. ions relacionats amb el lloc (màx . l: fins a 10 punts. siva: fins a 5 punts. p i adequació al perfil professio n el currículum vitae",
+      "municipality": "L'Espluga de Francolí 1 S rí en centres o serveis educatius públics: 1 punt. im 20 punts) nal: fins a 10 punts.",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "60-43008432",
+      "specialty": "455",
+      "institution": "Sant Pere i Sant Pau",
+      "municipality": "Tarragona 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "61-43008432",
+      "specialty": "485",
+      "institution": "Sant Pere i Sant Pau",
+      "municipality": "Tarragona 1",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "62-43008432",
+      "specialty": "474",
+      "institution": "Sant Pere i Sant Pau",
+      "municipality": "Tarragona 0,5",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "63-43008432",
+      "specialty": "475",
+      "institution": "Sant Pere i Sant Pau",
+      "municipality": "Tarragona 0,5",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "64-43008432",
+      "specialty": "481",
+      "institution": "Sant Pere i Sant Pau",
+      "municipality": "Tarragona 0,5",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "65-43008432",
+      "specialty": "471",
+      "institution": "Sant Pere i Sant Pau",
+      "municipality": "Tarragona 0,5",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "66-43008432",
+      "specialty": "488",
+      "institution": "Sant Pere i Sant Pau arts escèniques c.",
+      "municipality": "Tarragona 0,5",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260073",
+      "specialty": "ALP",
+      "institution": "Oliveres - ZER Serra d'Anco",
+      "municipality": "sa Cabrera d'Anoia",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260074",
+      "specialty": "UES",
+      "institution": "amí de Mar",
+      "municipality": "Calafell",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260075",
+      "specialty": "F75",
+      "institution": "amí de Mar",
+      "municipality": "Calafell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260076",
+      "specialty": "ALP",
+      "institution": "Ginesta",
+      "municipality": "Calafell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260077",
+      "specialty": "UEE",
+      "institution": "Ginesta",
+      "municipality": "Calafell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260078",
+      "specialty": "UEE",
+      "institution": "sèn Jacint Verdaguer",
+      "municipality": "Calafell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260079",
+      "specialty": "ALP",
+      "institution": "ta Creu de Calafell",
+      "municipality": "Calafell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260080",
+      "specialty": "UEE",
+      "institution": "ta Creu de Calafell",
+      "municipality": "Calafell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260081",
+      "specialty": "ALS",
+      "institution": "rnest Lluch i Martí",
+      "municipality": "Cunit",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260082",
+      "specialty": "ALP",
+      "institution": "peu Fabra",
+      "municipality": "Cunit",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260083",
+      "specialty": "UEE",
+      "institution": "esa Godes i Domènech",
+      "municipality": "El Montmell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260084",
+      "specialty": "F61",
+      "institution": "ndreu Nin",
+      "municipality": "El Vendrell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260085",
+      "specialty": "ADC",
+      "institution": "ndreu Nin",
+      "municipality": "El Vendrell",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260086",
+      "specialty": "ALP",
+      "institution": "el Guimerà",
+      "municipality": "El Vendrell",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260087",
+      "specialty": "ALP",
+      "institution": "els Garriga",
+      "municipality": "El Vendrell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260088",
+      "specialty": "UEE",
+      "institution": "els Garriga",
+      "municipality": "El Vendrell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260089",
+      "specialty": "ALS",
+      "institution": "aix Penedès",
+      "municipality": "El Vendrell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260090",
+      "specialty": "ALP",
+      "institution": "scola oma-ruga",
+      "municipality": "El Vendrell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260091",
+      "specialty": "PSI",
+      "institution": "AP T-06 Baix Penedès",
+      "municipality": "El Vendrell",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260092",
+      "specialty": "EES",
+      "institution": null,
+      "municipality": "El Vendrell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260093",
+      "specialty": "SRP",
+      "institution": null,
+      "municipality": "El Vendrell",
+      "vacancies": 1.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260094",
+      "specialty": "ALP",
+      "institution": "ta Mata",
+      "municipality": "El Vendrell",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260095",
+      "specialty": "UEE",
+      "institution": "scola enaixença",
+      "municipality": "Els Hostalets de Pierola",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260096",
+      "specialty": "UES",
+      "institution": "elida",
+      "municipality": "Gelida",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260097",
+      "specialty": "UES",
+      "institution": "adia i Margarit",
+      "municipality": "Igualada",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260098",
+      "specialty": "PSI",
+      "institution": "AP B-38 Anoia",
+      "municipality": "Igualada",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260099",
+      "specialty": "476",
+      "institution": "oan Mercader",
+      "municipality": "Igualada",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260100",
+      "specialty": "F74",
+      "institution": "ilà i Fontanals",
+      "municipality": "Igualada",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260101",
+      "specialty": "UES",
+      "institution": "ere Vives i Vich",
+      "municipality": "Igualada",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260102",
+      "specialty": "ALP",
+      "institution": "t Julià",
+      "municipality": "L'Arboç",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260103",
+      "specialty": "ALP",
+      "institution": "ois del Bruc",
+      "municipality": "Piera",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260104",
+      "specialty": "UEE",
+      "institution": "ois del Bruc",
+      "municipality": "Piera",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260105",
+      "specialty": "UEE",
+      "institution": "iera scola",
+      "municipality": "Piera",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260106",
+      "specialty": "F65",
+      "institution": "uinovarda",
+      "municipality": "Piera",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260107",
+      "specialty": "UES",
+      "institution": "e l'Alt Foix",
+      "municipality": "Sant Martí Sarroca",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260108",
+      "specialty": "ALS",
+      "institution": "an Puig",
+      "municipality": "Sant Pere de Ribes",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260109",
+      "specialty": "ALP",
+      "institution": "Costerets",
+      "municipality": "Sant Pere de Ribes",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260110",
+      "specialty": "UEE",
+      "institution": "Costerets",
+      "municipality": "Sant Pere de Ribes",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260111",
+      "specialty": "ALP",
+      "institution": "Roquetes",
+      "municipality": "Sant Pere de Ribes",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260112",
+      "specialty": "ALP",
+      "institution": "Roquetes",
+      "municipality": "Sant Pere de Ribes",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260113",
+      "specialty": "UES",
+      "institution": "ant scolaQuintí de Mediona",
+      "municipality": "Sant Quintí de Mediona",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260114",
+      "specialty": "ALP",
+      "institution": "acint scola Verdaguer",
+      "municipality": "Sant Sadurní d'Anoia",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260115",
+      "specialty": "ALP",
+      "institution": "cía Lorca",
+      "municipality": "Santa Margarida de MontbuiAL",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260116",
+      "specialty": "ALS",
+      "institution": "ontbui",
+      "municipality": "Santa Margarida de MontbuiAL",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260117",
+      "specialty": "ALS",
+      "institution": "l Foix",
+      "municipality": "Santa Margarida i els Monjos",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260118",
+      "specialty": "UES",
+      "institution": "l Foix",
+      "municipality": "Santa Margarida i els Monjos",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260119",
+      "specialty": "ALP",
+      "institution": "ès de Sitges",
+      "municipality": "Sitges",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260120",
+      "specialty": "UES",
+      "institution": "oan Ramon Benaprès",
+      "municipality": "Sitges",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260121",
+      "specialty": "UES",
+      "institution": "inyet",
+      "municipality": "Sitges",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260122",
+      "specialty": "ALS",
+      "institution": "inyet",
+      "municipality": "Sitges",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260123",
+      "specialty": "UES",
+      "institution": "inyet",
+      "municipality": "Sitges",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260124",
+      "specialty": "PSI",
+      "institution": "AP B-15 Alt Penedès",
+      "municipality": "Vilafranca del Penedès",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260125",
+      "specialty": "UES",
+      "institution": "ugeni d'Ors",
+      "municipality": "Vilafranca del Penedès",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260126",
+      "specialty": "UES",
+      "institution": "a Girada",
+      "municipality": "Vilafranca del Penedès",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260127",
+      "specialty": "ADC",
+      "institution": "a Girada",
+      "municipality": "Vilafranca del Penedès",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260128",
+      "specialty": "AIP",
+      "institution": "i Perera",
+      "municipality": "Vilafranca del Penedès",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260129",
+      "specialty": "UES",
+      "institution": "ilà i Fontanals",
+      "municipality": "Vilafranca del Penedès",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260130",
+      "specialty": "ALS",
+      "institution": "aix a mar",
+      "municipality": "Vilanova i la Geltrú",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260131",
+      "specialty": "UEE",
+      "institution": "setània",
+      "municipality": "Vilanova i la Geltrú",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260132",
+      "specialty": "471",
+      "institution": "olors Mallafrè i Ros",
+      "municipality": "Vilanova i la Geltrú",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260133",
+      "specialty": "476",
+      "institution": "olors Mallafrè i Ros",
+      "municipality": "Vilanova i la Geltrú",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260134",
+      "specialty": "PSI",
+      "institution": "AP B-08 Garraf",
+      "municipality": "Vilanova i la Geltrú",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260135",
+      "specialty": "F58",
+      "institution": "rancesc Xavier Lluch i Rafecas",
+      "municipality": "Vilanova i la Geltrú",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260136",
+      "specialty": "UES",
+      "institution": "anuel de Cabanyes",
+      "municipality": "Vilanova i la Geltrú",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1260137",
+      "specialty": "ALP",
+      "institution": "t Jordi",
+      "municipality": "Vilanova i la Geltrú",
+      "vacancies": 0.5,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08061348",
+      "specialty": "ALP",
+      "institution": "Bufalà",
+      "municipality": "Badalona",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08000402",
+      "specialty": "UEE",
+      "institution": "Feliu i Vegués",
+      "municipality": "Badalona",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08036135",
+      "specialty": "ALP",
+      "institution": "Joan Coret",
+      "municipality": "Badalona",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08034965",
+      "specialty": "ALP",
+      "institution": "Margarida Xirgu",
+      "municipality": "Badalona",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08059639",
+      "specialty": "UEE",
+      "institution": "Progrés",
+      "municipality": "Badalona",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08059639",
+      "specialty": "ALP",
+      "institution": "Progrés",
+      "municipality": "Badalona",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08044223",
+      "specialty": "EES",
+      "institution": "L'Estel- Can Bori",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08067016",
+      "specialty": "ALP",
+      "institution": "Ernest Lluch",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08019277",
+      "specialty": "UEE",
+      "institution": "La Marina",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08018066",
+      "specialty": "UEE",
+      "institution": "Menéndez Pidal",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08018066",
+      "specialty": "ALP",
+      "institution": "Menéndez Pidal",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08019231",
+      "specialty": "UEE",
+      "institution": "Milagros Consarnau",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08019231",
+      "specialty": "ALP",
+      "institution": "Milagros Consarnau",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08069736",
+      "specialty": "ALP",
+      "institution": "Paco Candel",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08042871",
+      "specialty": "ALP",
+      "institution": "Patufet Sant Jordi",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08034850",
+      "specialty": "ALP",
+      "institution": "Pau Casals",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08018091",
+      "specialty": "UEE",
+      "institution": "Pep Ventura",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08076467",
+      "specialty": "UES",
+      "institution": "Pere Lliscart",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08076467",
+      "specialty": "ALS",
+      "institution": "Pere Lliscart",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08034989",
+      "specialty": "ALP",
+      "institution": "Catalunya",
+      "municipality": "Sant Adrià de Besòs",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08075384",
+      "specialty": "UEE",
+      "institution": "La Mina",
+      "municipality": "Sant Adrià de Besòs",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08075384",
+      "specialty": "ALP",
+      "institution": "La Mina",
+      "municipality": "Sant Adrià de Besòs",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08040047",
+      "specialty": "EES",
+      "institution": "Josep Sol i Rodríguez",
+      "municipality": "Santa Coloma de Gramenet",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08033341",
+      "specialty": "UEE",
+      "institution": "Banús",
+      "municipality": "Santa Coloma de Gramenet",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08027456",
+      "specialty": "ALP",
+      "institution": "Ferran de Sagarra",
+      "municipality": "Santa Coloma de Gramenet",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08027870",
+      "specialty": "UEE",
+      "institution": "Les Palmeres",
+      "municipality": "Santa Coloma de Gramenet",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08040382",
+      "specialty": "ALP",
+      "institution": "Mercè Rodoreda",
+      "municipality": "Santa Coloma de Gramenet",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08070143",
+      "specialty": "UEE",
+      "institution": "Riera Alta",
+      "municipality": "Santa Coloma de Gramenet",
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08019320",
+      "specialty": "ADC",
+      "institution": "Torras i Bages",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08046751",
+      "specialty": "ADC",
+      "institution": "Ventura Gassol",
+      "municipality": "Badalona 15/7/",
+      "vacancies": 2.0,
+      "deadline": null,
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08901007",
+      "specialty": "PSI",
+      "institution": "EAP B-55 Badalona",
+      "municipality": "Badalona",
+      "vacancies": 3.0,
+      "deadline": "14/7/2026",
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Serveis Educatius - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08902204",
+      "specialty": "PSI",
+      "institution": "EAP B-56 L'Hospitalet",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 3.0,
+      "deadline": "14/7/2026",
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Serveis Educatius - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08900255",
+      "specialty": "PSI",
+      "institution": "EAP B-12 Santa Coloma de Gramanet",
+      "municipality": "Santa Coloma de Gramanet",
+      "vacancies": 1.0,
+      "deadline": "14/7/2026",
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Serveis Educatius - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08930005",
+      "specialty": "No especificada",
+      "institution": "CRP Ciutat de l'Hospitalet de Llobregat",
+      "municipality": "L'Hospitalet de Llobregat",
+      "vacancies": 1.0,
+      "deadline": "14/7/2026",
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Serveis Educatius - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "08930005",
+      "specialty": "PSI",
+      "institution": "CRP Ciutat de l'Hospitalet de Llobregat",
+      "municipality": "L'Hospitalet de Llobregat 14/7/2026",
+      "vacancies": 1.0,
+      "deadline": "14/7/2026",
+      "region": "Barcelonès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Serveis Educatius - 14/07/2026",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-06 Vacant",
+      "specialty": "PSI",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-07 Vacant",
+      "specialty": "PSI",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-08 Vacant",
+      "specialty": "PSI",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-09 Vacant",
+      "specialty": "PSI",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-10 Vacant",
+      "specialty": "PSI",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-11 Vacant",
+      "specialty": "PSI",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-12 2 Vacants",
+      "specialty": "610",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 2.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-13 2 Vacants",
+      "specialty": "509",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 2.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-14 4 Vacants",
+      "specialty": "509",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 4.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-15 Vacant",
+      "specialty": "AN",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "DC-16 Vacant",
+      "specialty": "EF",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": "20 de juliol de 2026",
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENSEC_2627_106",
+      "specialty": "AN",
+      "institution": "Institut Escola Trinitat Nova",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 17/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_106 — AN-TIC – Anglès amb perfil Competència digital",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_106_I.E._TRINITAT_NOVA_AN_TIC.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_044",
+      "specialty": "Mestre/a Ed. Primària",
+      "institution": "CRP Sant Martí",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 17/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_044 — Mestre/a Ed. Primària",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_44_CRP_SANT_MARTI_PRI.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENSEC_2627_107",
+      "specialty": "PSI",
+      "institution": "Diversos centres",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 12 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_107 — PSI – Orientació Educativa",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_107_SIEI_DIVERSOS_CENTRES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "MUNSEC_2627_006",
+      "specialty": "Tècnic/a per al Servei d’Orientació (Pla Jove)",
+      "institution": "Consorci d'Educació de Barcelona",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 10 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "MUNSEC_2627_006 — Tècnic/a per al Servei d’Orientació (Pla Jove)",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_6_Pla_Jove.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "MUNSEC_2627_005",
+      "specialty": "REINICIA’t (4 vacants)",
+      "institution": "Consorci d'Educació de Barcelona",
+      "municipality": "Barcelona",
+      "vacancies": 4.0,
+      "deadline": "fins al 16/07/2026 a les 10 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "MUNSEC_2627_005 — REINICIA’t (4 vacants)",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_5_REINICIAT.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_043",
+      "specialty": "SIEI",
+      "institution": "Escola El Turó",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 17/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_043 — SIEI / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_43_EL_TURO_SIEI.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENSEC_2627_105",
+      "specialty": "GE",
+      "institution": "SE Camp d’Aprenentatge de Barcelona (CdA de Barcelona)",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 17/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_105 — GE / CN / AN / TEC / 519 / LC",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_105_SE_Cda.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_042",
+      "specialty": "Mestre/a PRI / PEF / PAN / EES",
+      "institution": "SE Camp d’Aprenentatge de Barcelona (CdA de Barcelona)",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 17/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_042 — Mestre/a PRI / PEF / PAN / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_42_SE_Cda_PRI.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENSEC_2627_104",
+      "specialty": "PSI",
+      "institution": "CEE Lèxia",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_104 — PSI – Orientació educativa",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_104_CEE_LEXIA_PSI.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_041",
+      "specialty": "PMU",
+      "institution": "CEE Lèxia",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_041 — PMU",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_040",
+      "specialty": "SIEI",
+      "institution": "Escola Fructuós Gelabert",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_040 — SIEI / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_40_FRUCTUOS_GELABERT_SIEI_EES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_039",
+      "specialty": "SIEI",
+      "institution": "Escola de les Aigües",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_039 — SIEI / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_39_ESCOLA_DE_LES_AIGUES_SIEI_EES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_038",
+      "specialty": "SIEI",
+      "institution": "Escola Dovella",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_038 — SIEI / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_38_DOVELLA_SIEI_EES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_037",
+      "specialty": "SIEI",
+      "institution": "Escola Ferran Sunyer",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_037 — SIEI+ / ALL",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_37_FERRAN_SUNYER_SIEI__ALL.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_036",
+      "specialty": "SIEI",
+      "institution": "Escola Ferran Sunyer",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_036 — SIEI+ / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_36_FERRAN_SUNYER_SIEI__EES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_035",
+      "specialty": "SIEI",
+      "institution": "Escola Doctor Ferran i Clua",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_035 — SIEI+ / ALL",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_35_DOCTOR_FERRAN_I_CLUA_SIEI__ALL.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_034",
+      "specialty": "SIEI",
+      "institution": "Escola Doctor Ferran i Clua",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_034 — SIEI+ / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_34_DOCTOR_FERRAN_I_CLUA_SIEI__EES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_033",
+      "specialty": "SIEI",
+      "institution": "Escola Calderón de la Barca",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_033 — SIEI+ / ALL",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_33_CALDERON_DE_LA_BARCA_SIEI__ALL.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_032",
+      "specialty": "SIEI",
+      "institution": "Escola Calderón de la Barca",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_032 — SIEI+ / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_32_CALDERON_DE_LA_BARCA_SIEI__EES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_031",
+      "specialty": "SIEI",
+      "institution": "Escola La Palmera",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_031 — SIEI+ / ALL",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_31_LA_PALMERA_ALL_SIEIPLUS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_030",
+      "specialty": "SIEI",
+      "institution": "Escola La Palmera",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_030 — SIEI+ / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_30_LA_PALMERA_EES_SIEIPLUS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_029",
+      "specialty": "SIEI",
+      "institution": "Escola Pegaso",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_029 — SIEI+ / ALL",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_29_E._PEGASO_SIEI_ALL.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_028",
+      "specialty": "SIEI",
+      "institution": "Escola Pegaso",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_028 — SIEI+ / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_28_E._PEGASO_SIEI_EES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_027",
+      "specialty": "SIEI",
+      "institution": "Escola Mare de Déu de Montserrat",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 16/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_027 — SIEI / EES",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_27_E._MARE_DE_DEU_DE_MONTSERRAT_SIEI_EES.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENSEC_2627_075",
+      "specialty": "IPS",
+      "institution": "Institut Poblenou",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 17/07/2026 a les 14 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_075 — IPS Orientació educativa (IFE)",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_75_Ins_Poblenou_IPS.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "MUNPRI_2627_001",
+      "specialty": "PRIMÀRIA + LSC (Llengua de Signes)",
+      "institution": "Escola Municipal Tres Pins",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins a cobrir vacant",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "MUNPRI_2627_001 — PRIMÀRIA + LSC (Llengua de Signes)",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_1_Escola_Tres_Pins_PRI_LSC.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "GENPRI_2627_024",
+      "specialty": "EES",
+      "institution": "CEE Lèxia",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins a cobrir vacant",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_024 — EES – Educació especial",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_24_CEE_LEXIA_EES.pdf",
+      "document_status": "sense canvis"
+    }
+  ],
+  "interesting_offers": [
+    {
+      "identifier": "GENSEC_2627_105",
+      "specialty": "GE",
+      "institution": "SE Camp d’Aprenentatge de Barcelona (CdA de Barcelona)",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 17/07/2026 a les 8 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_105 — GE / CN / AN / TEC / 519 / LC",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_105_SE_Cda.pdf",
+      "document_status": "sense canvis"
+    }
+  ],
+  "changes": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  },
+  "collection": {
+    "regions": [
+      {
+        "name": "Tarragona",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de vacants.",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "Oferta de vacants cos 594: professors de música i arts escèniques",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Penedès",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de vacants o substitucions - El termini per presentar sol·licituds finalitzarà a les 15:00h del divendres 17 de juliol de 2026-",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Baix Llobregat",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Barcelonès",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de llocs de difícil cobertura - Secundària i Primària - 14/07/2026",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "Serveis Educatius - 14/07/2026",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Terres de l’Ebre",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de vacants o substitucions",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Barcelona — Consorci d’Educació",
+        "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "documents": [
+          {
+            "title": "GENSEC_2627_106 — AN-TIC – Anglès amb perfil Competència digital",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_106_I.E._TRINITAT_NOVA_AN_TIC.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_044 — Mestre/a Ed. Primària",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_44_CRP_SANT_MARTI_PRI.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENSEC_2627_107 — PSI – Orientació Educativa",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_107_SIEI_DIVERSOS_CENTRES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "MUNSEC_2627_006 — Tècnic/a per al Servei d’Orientació (Pla Jove)",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_6_Pla_Jove.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "MUNSEC_2627_005 — REINICIA’t (4 vacants)",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_5_REINICIAT.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_043 — SIEI / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_43_EL_TURO_SIEI.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENSEC_2627_105 — GE / CN / AN / TEC / 519 / LC",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_105_SE_Cda.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_042 — Mestre/a PRI / PEF / PAN / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_42_SE_Cda_PRI.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENSEC_2627_104 — PSI – Orientació educativa",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_104_CEE_LEXIA_PSI.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_041 — PMU",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_040 — SIEI / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_40_FRUCTUOS_GELABERT_SIEI_EES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_039 — SIEI / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_39_ESCOLA_DE_LES_AIGUES_SIEI_EES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_038 — SIEI / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_38_DOVELLA_SIEI_EES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_037 — SIEI+ / ALL",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_37_FERRAN_SUNYER_SIEI__ALL.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_036 — SIEI+ / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_36_FERRAN_SUNYER_SIEI__EES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_035 — SIEI+ / ALL",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_35_DOCTOR_FERRAN_I_CLUA_SIEI__ALL.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_034 — SIEI+ / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_34_DOCTOR_FERRAN_I_CLUA_SIEI__EES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_033 — SIEI+ / ALL",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_33_CALDERON_DE_LA_BARCA_SIEI__ALL.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_032 — SIEI+ / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_32_CALDERON_DE_LA_BARCA_SIEI__EES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_031 — SIEI+ / ALL",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_31_LA_PALMERA_ALL_SIEIPLUS.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_030 — SIEI+ / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_30_LA_PALMERA_EES_SIEIPLUS.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_029 — SIEI+ / ALL",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_29_E._PEGASO_SIEI_ALL.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_028 — SIEI+ / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_28_E._PEGASO_SIEI_EES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_027 — SIEI / EES",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_27_E._MARE_DE_DEU_DE_MONTSERRAT_SIEI_EES.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENSEC_2627_075 — IPS Orientació educativa (IFE)",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_75_Ins_Poblenou_IPS.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "MUNPRI_2627_001 — PRIMÀRIA + LSC (Llengua de Signes)",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_1_Escola_Tres_Pins_PRI_LSC.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "GENPRI_2627_024 — EES – Educació especial",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_24_CEE_LEXIA_EES.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      }
+    ]
+  }
+}

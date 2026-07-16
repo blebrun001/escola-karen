@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-16T14:19:53.039631+02:00",
+  "entries": [
+    {
+      "date": "2026-07-16",
+      "generated_at": "2026-07-16T14:19:53.039631+02:00",
+      "status": "success",
+      "offers_count": 162,
+      "vacancies_total": 170.5,
+      "interesting_count": 1,
+      "interesting_by_specialty": {
+        "GE": 1
+      },
+      "changes": {
+        "added": 0,
+        "removed": 0,
+        "updated": 0
+      }
+    }
+  ]
+}

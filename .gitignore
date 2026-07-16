@@ -1,0 +1,11 @@
+/data/
+/logs/
+/reports/
+/tmp/
+_site/
+email_config.local.json
+__pycache__/
+*.pyc
+*.rtf
+.DS_Store
+email_config.local.json
