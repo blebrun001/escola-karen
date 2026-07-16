@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-16T13:32:44.498243+00:00",
+  "updated_at": "2026-07-16T13:34:44.780283+00:00",
   "entries": [
     {
       "date": "2026-07-16",
-      "generated_at": "2026-07-16T13:32:44.498243+00:00",
+      "generated_at": "2026-07-16T13:34:44.780283+00:00",
       "status": "success",
       "offers_count": 162,
       "vacancies_total": 170.5,
@@ -15,7 +15,7 @@
       "changes": {
         "added": 0,
         "removed": 0,
-        "updated": 3
+        "updated": 0
       }
     }
   ]
