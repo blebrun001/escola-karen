@@ -1,7 +1,23 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-16T13:34:44.780283+00:00",
+  "updated_at": "2026-07-17T14:50:44.112016+00:00",
   "entries": [
+    {
+      "date": "2026-07-17",
+      "generated_at": "2026-07-17T14:50:44.112016+00:00",
+      "status": "success",
+      "offers_count": 161,
+      "vacancies_total": 166.5,
+      "interesting_count": 1,
+      "interesting_by_specialty": {
+        "GE": 1
+      },
+      "changes": {
+        "added": 18,
+        "removed": 19,
+        "updated": 0
+      }
+    },
     {
       "date": "2026-07-16",
       "generated_at": "2026-07-16T13:34:44.780283+00:00",
