@@ -1,39 +1,39 @@
 {
-  "last_run": "2026-07-17T14:50:44.112016+00:00",
+  "last_run": "2026-07-18T14:23:17.933672+00:00",
   "documents": {
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf": {
-      "sha256": "7bfa60a2475639c540613dd59a5ef346f493011c346e44153c4e71d9adb24bc4",
-      "last_seen": "2026-07-17T14:50:44.112016+00:00",
+      "sha256": "48f737a4959fc25fd0c68628bbf9d152323eb221a22c70a0ba18c476ee3e09f7",
+      "last_seen": "2026-07-18T14:23:17.933672+00:00",
       "region": "Tarragona"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf": {
       "sha256": "b828e3be63ee16efe8c2ad430bf430b8ff8b261e8990c5abb08f7d0e31febf28",
-      "last_seen": "2026-07-17T14:50:44.112016+00:00",
+      "last_seen": "2026-07-18T14:23:17.933672+00:00",
       "region": "Tarragona"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "37b6ad97ff3b52ccf6555415533d710bd548cfae338d94be2c858613736d6d29",
-      "last_seen": "2026-07-17T14:50:44.112016+00:00",
+      "last_seen": "2026-07-18T14:23:17.933672+00:00",
       "region": "Penedès"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "5359151d42dbe9ae3a4e81235ae4159e3846076cb772e26a258681dcc9aefb87",
-      "last_seen": "2026-07-17T14:50:44.112016+00:00",
+      "last_seen": "2026-07-18T14:23:17.933672+00:00",
       "region": "Baix Llobregat"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf": {
       "sha256": "74faa46409e019fd04952f553b659bc55fb0e5d8229c61412d6be84e04491de8",
-      "last_seen": "2026-07-17T14:50:44.112016+00:00",
+      "last_seen": "2026-07-18T14:23:17.933672+00:00",
       "region": "Barcelonès"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf": {
       "sha256": "0a224595020a633dfe2fe059d11c7963e4784c4f9c72060b236330e333f9776d",
-      "last_seen": "2026-07-17T14:50:44.112016+00:00",
+      "last_seen": "2026-07-18T14:23:17.933672+00:00",
       "region": "Barcelonès"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "3a33caae6affe9044a5dab164cdfca8bc58e724511961d68b1762cea8153380d",
-      "last_seen": "2026-07-17T14:50:44.112016+00:00",
+      "last_seen": "2026-07-18T14:23:17.933672+00:00",
       "region": "Terres de l’Ebre"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_106_I.E._TRINITAT_NOVA_AN_TIC.pdf": {

@@ -1,8 +1,17 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-07-17T14:50:44.112016+00:00",
-  "status": "success",
+  "attempted_at": "2026-07-18T14:23:17.933672+00:00",
+  "status": "partial",
   "last_successful_at": "2026-07-17T14:50:44.112016+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/29589642375",
-  "errors": []
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/29647922721",
+  "errors": [
+    {
+      "region": "Barcelona — Consorci d’Educació",
+      "message": "<urlopen error timed out>"
+    },
+    {
+      "region": "Tarragona",
+      "message": "No s’ha pogut analitzar el format del PDF."
+    }
+  ]
 }
