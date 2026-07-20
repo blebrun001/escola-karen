@@ -1,139 +1,214 @@
 {
-  "last_run": "2026-07-19T14:33:32.152714+00:00",
+  "last_run": "2026-07-20T15:19:12.870574+00:00",
   "documents": {
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "48f737a4959fc25fd0c68628bbf9d152323eb221a22c70a0ba18c476ee3e09f7",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Tarragona"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-594.pdf": {
       "sha256": "b828e3be63ee16efe8c2ad430bf430b8ff8b261e8990c5abb08f7d0e31febf28",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Tarragona"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "37b6ad97ff3b52ccf6555415533d710bd548cfae338d94be2c858613736d6d29",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Penedès"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "5359151d42dbe9ae3a4e81235ae4159e3846076cb772e26a258681dcc9aefb87",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Baix Llobregat"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/2026_07_14-0208_Vacants-Dificil-Cobertura-Inclusiva-BIS.pdf": {
       "sha256": "74faa46409e019fd04952f553b659bc55fb0e5d8229c61412d6be84e04491de8",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelonès"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/20260714-Vacants-Dificil-Cobertura-Serveis-Educatius.pdf": {
       "sha256": "0a224595020a633dfe2fe059d11c7963e4784c4f9c72060b236330e333f9776d",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelonès"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "3a33caae6affe9044a5dab164cdfca8bc58e724511961d68b1762cea8153380d",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Terres de l’Ebre"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_1_Escola_Tres_Pins_PRI_LSC.pdf": {
       "sha256": "733fccdd18a92f4e69ef5494dcf215c3ed6844b13f9766f42f4cddfdb729a79b",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_24_CEE_LEXIA_EES.pdf": {
       "sha256": "7efbb68e3410b256b89f4b8f22f379313d278da644c16ead9d3297656f02b4c8",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_023_Ins_AG_Mundet_PFI_617.pdf": {
       "sha256": "c10c771d76412522a8469f187cb8b2b45fdb889801addcae6a4fc832251af1b1",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_022_Ins_AG_Mundet_PFI_611.pdf": {
       "sha256": "c858675e4040cac87d9814a390019c9677d6c58dc4150ba99c9e18eb989d675c",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_021_Ins_AG_Mundet_PFI_606_2.pdf": {
       "sha256": "5822891a3118dd4f4304a76e94ad14068e2b9161e39f24b1aeb47ea3168df1ae",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_020_Ins_AG_Mundet_PFI_606_1.pdf": {
       "sha256": "30732a21e8a0fe73d5b0c817b96232947fbabff2f867a5fc8ffda2be17ad692d",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_019_Ins_AG_Mundet_PFI_605.pdf": {
       "sha256": "1ecf86f4e49f198ce74f2978b67284cb5420e7440cc5e5e46f1587ccb4eee325",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_018_Ins_AG_Mundet_PFI_602.pdf": {
-      "sha256": "7d295f7961d88c0d413d508b7527cfa2e2a410cea01b709d52b30c693d35e9b8",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "sha256": "c093613f953a0559a70057845abf94fc501c53947fcd149156c68155a51c107a",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_013_Ins_Lluisa_Cura_PFI_505.pdf": {
       "sha256": "a589d6ef645ad6795c6f33f717e2333af38d02a7011b29e5aeca86e9f7c65b32",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_012_Ins_Lluisa_Cura_PFI_510.pdf": {
       "sha256": "87038595b10d67713d20302b710d4d94c5aea5a39632aedeadf954ed13738b00",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_011_EA_La_Industrial_721.pdf": {
       "sha256": "8d9de4473e5a41ea6012764948f130e35e7ef306d7cfdc5076f8ce45e20fc3a4",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_010_EA_La_Industrial_717.pdf": {
       "sha256": "9b578755921c33291dc60c33f3c0b97714614b12438f09e553ce9f44ba8dd757",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_9_Ins_Ferran_Tallada_EF.pdf": {
       "sha256": "9c0ffd27879caf6d9b9b201ea1919ee00836a512ebaf286f018b7d7fb8110571",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_008_Ins_Ferran_Tallada_625.pdf": {
       "sha256": "23dbe7945ffde60f7aeb6aeec8571798dabfcb34133ba2b4c275e1d63b1ef28d",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_007_Ins_Ferran_Tallada_625.pdf": {
       "sha256": "55173428a58a34ecb1da73f32fcd4b2934c0e573a83d72c267eac992e4dcec9c",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_108_EA_Llotja_722.pdf": {
       "sha256": "8e9650391e9eda53901393aebf76b187db8020f286d9b22cdfc8dcad0b35f56c",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_006_EOI_136_JAPONES.pdf": {
       "sha256": "3ebc8adf9ccc5f03f1ebaeb7916badff4305c8ad9ffe2fab3857058e36396dfb",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_005_EA_Deia_707.pdf": {
       "sha256": "e788b30cce7ab4919894c8047f84dbecf6f85a43e69801f51ff31ccc9ccf288d",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_004_EA_Deia_721.pdf": {
       "sha256": "f04ff0ccace0672de464fd6be993f2544b131d730d81a36197ca4ce3792a1cd6",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_45_CREDV_PRI.pdf": {
       "sha256": "10d3db8584625bbc4b5e8229fb59b3de7fe734f56f3344a766abdf93c1523930",
-      "last_seen": "2026-07-19T14:33:32.152714+00:00",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_028_EA_MASSANA_725_VOLUM.pdf": {
+      "sha256": "42e2317290e41360ded1e9b23ccfd6281fce55420674028f5f797b355559661e",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_29_DIBUIX_ARTISTIC_I_COLOR-ILLUSTRACIO.pdf": {
+      "sha256": "6964188122f208ccb89ccee147b84ff083fc4fc22d6cc147c9e98d04720140d1",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_26_I.MITJANS_AUDIOVISUALS_ANIMACIO_VISUAL_DJ.pdf": {
+      "sha256": "d73b928f425364d17127f163cb81fda979f5578841470013261c017556682603",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_27_I.MITJANS_AUDIOVISUALS_ANIMACIO_VISUAL_VDJ.pdf": {
+      "sha256": "9702e82c71003ca53f26831545398d29f84d46ad4a8a4e97a764650bc2cf04b7",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_25_I.MITJANS_AUDIOVISUALS_ESPECIALISTA_EN_SUBTITULACIO.pdf": {
+      "sha256": "c63e8f425cd292af2225cc70e1b960ef2ae10ffd0a9e18234f22a16247d60dbf",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_24_I.MITJANS_AUDIOVISUALS_ESPECIALISTA_EN_AUDIODESCRIPCIO.pdf": {
+      "sha256": "f58a36b04765b668e8830e3105af953b8fc547f747e8e8525751af40ae5324f1",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_8_Ins_Poblenou_FMG.pdf": {
+      "sha256": "65f4096bc17b2dddca65fe73245af35bbf4017fbba85e1033e45b7d2f0e9c9db",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/GESEC_2627_7_DUAL_FP_Postobligatori.pdf": {
+      "sha256": "229f3606d8b4b0fcc0283b47a2573c5394722e96ab2b57c71c41c29ece0e1922",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_016_ISMAB_625_I_ART_FLORAL.pdf": {
+      "sha256": "820fb28327582917df02ff4828331112ef078e52c2d88ce5dd285824e1a9726d",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_15_I._MITJANS_AUDIOVISUALS_SO_I_TECNOLOGIA_DE_L_AUDIOVISUAL.pdf": {
+      "sha256": "c66c3dcc664d2df566dd2db80b5ed6ff80036a618d723085b1f4fdad8e0ec638",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_014_I._MITJANS_AUDIOVISUALS_3D_I_VIDEOMAPPING.pdf": {
+      "sha256": "bbe09802299d9a0734181335a037bc49207551d2c2ef650bc1d8514065bb1fc6",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf": {
+      "sha256": "fe96c4cb81f657fc6a7cf9f00ae77b89080a864623998bae02031bb1a698b2b7",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_074_Inst_INDUSTRIA_SOSTENIBLE__F74_524_.pdf": {
+      "sha256": "4756cc9118d1720e089416fb9a11e8b2e1851383519d6588c17e8feb07be83b1",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_5_Escola_Arc_Iris_PAN.pdf": {
+      "sha256": "33a2c10c2feacd7859cecfc9094574056b908a8deaf80bba059e55ce417c47c8",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_19_CRP.pdf": {
+      "sha256": "d81b3a36789a6ddbcdb3709cae4e11275569e0d34d8862ff54ab90515f34cd36",
+      "last_seen": "2026-07-20T15:19:12.870574+00:00",
       "region": "Barcelona — Consorci d’Educació"
     }
   }
