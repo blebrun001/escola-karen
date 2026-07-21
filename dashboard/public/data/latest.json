@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-21T10:01:31.748614+00:00",
+  "generated_at": "2026-07-21T15:13:11.979513+00:00",
   "status": "partial",
   "last_successful_at": "2026-07-17T14:50:44.112016+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/29820584185",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/29842898862",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 147,
-    "vacancies_total": 146.0,
+    "offers_count": 148,
+    "vacancies_total": 147.0,
     "active_regions": 5,
     "documents": {
-      "new": 4,
-      "updated": 1,
-      "unchanged": 41,
+      "new": 1,
+      "updated": 0,
+      "unchanged": 46,
       "error": 0,
       "removed": 0
     },
@@ -230,7 +230,7 @@
         {
           "title": "Oferta de vacants o substitucions",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "actualitzat",
+          "status": "sense canvis",
           "note": "",
           "warning": ""
         }
@@ -241,8 +241,8 @@
     {
       "name": "Barcelona — Consorci d’Educació",
       "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "offers_count": 39,
-      "vacancies_total": 39.0,
+      "offers_count": 40,
+      "vacancies_total": 40.0,
       "top_specialties": [
         {
           "code": "PQP",
@@ -264,6 +264,7 @@
         "FMG": 2,
         "606": 2,
         "721": 2,
+        "620": 1,
         "Processos de Gestió Administrativa (622)": 1,
         "Producció en Arts Gràfiques (623)": 1,
         "VOLUM": 1,
@@ -293,23 +294,30 @@
       "interesting_by_specialty": {},
       "documents": [
         {
+          "title": "MUNSEC_2627_037 — 620 – Procediments sanitaris i assistencials",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_037_Ins_Ferran_Tallada_620.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
           "title": "MUNSEC_2627_031 — Processos de Gestió Administrativa (622)",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_031_I.IDAGB_622_Processos_gestio_administrativa.pdf",
-          "status": "nou",
+          "status": "sense canvis",
           "note": "",
           "warning": ""
         },
         {
           "title": "MUNSEC_2627_034 — Producció en Arts Gràfiques (623)",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_034_I.IDAGB_623_Produccio_arts_grafiques.pdf",
-          "status": "nou",
+          "status": "sense canvis",
           "note": "",
           "warning": ""
         },
         {
           "title": "MUNPRI_2627_009 — EES - Pedagogia terapèutica",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_9_CEE_VILLA_JOANA_EES_SUBS_RJ.pdf",
-          "status": "nou",
+          "status": "sense canvis",
           "note": "",
           "warning": ""
         },
@@ -533,7 +541,7 @@
         {
           "title": "GENSEC_2627_036 — F55 Oficina de Projectes de construcció (PFI)",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_36__F55_Oficina_de_Projectes_de_construccio_PFI.pdf",
-          "status": "nou",
+          "status": "sense canvis",
           "note": "",
           "warning": ""
         },
@@ -1973,7 +1981,20 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "MUNSEC_2627_037",
+      "specialty": "620",
+      "institution": "Institut Ferran Tallada",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 23/07/2026 a les 13 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "MUNSEC_2627_037 — 620 – Procediments sanitaris i assistencials",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_037_Ins_Ferran_Tallada_620.pdf",
+      "document_status": "nou"
     },
     {
       "identifier": "MUNSEC_2627_031",
@@ -1986,7 +2007,7 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "MUNSEC_2627_031 — Processos de Gestió Administrativa (622)",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_031_I.IDAGB_622_Processos_gestio_administrativa.pdf",
-      "document_status": "nou"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "MUNSEC_2627_034",
@@ -1999,7 +2020,7 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "MUNSEC_2627_034 — Producció en Arts Gràfiques (623)",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_034_I.IDAGB_623_Produccio_arts_grafiques.pdf",
-      "document_status": "nou"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "MUNPRI_2627_009",
@@ -2012,7 +2033,7 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "MUNPRI_2627_009 — EES - Pedagogia terapèutica",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_9_CEE_VILLA_JOANA_EES_SUBS_RJ.pdf",
-      "document_status": "nou"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "MUNSEC_2627_028",
@@ -2428,7 +2449,7 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "GENSEC_2627_036 — F55 Oficina de Projectes de construcció (PFI)",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_36__F55_Oficina_de_Projectes_de_construccio_PFI.pdf",
-      "document_status": "nou"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "MUNPRI_2627_005",
@@ -2487,216 +2508,20 @@
   "changes": {
     "added": [
       {
-        "identifier": "MUNSEC_2627_031",
-        "specialty": "Processos de Gestió Administrativa (622)",
-        "institution": "Institut del Disseny i Arts Gràfiques de Barcelona",
+        "identifier": "MUNSEC_2627_037",
+        "specialty": "620",
+        "institution": "Institut Ferran Tallada",
         "municipality": "Barcelona",
         "vacancies": 1.0,
         "deadline": "fins al 23/07/2026 a les 13 h",
         "region": "Barcelona — Consorci d’Educació",
         "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "MUNSEC_2627_031 — Processos de Gestió Administrativa (622)",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_031_I.IDAGB_622_Processos_gestio_administrativa.pdf",
+        "document_title": "MUNSEC_2627_037 — 620 – Procediments sanitaris i assistencials",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_037_Ins_Ferran_Tallada_620.pdf",
         "document_status": "nou"
-      },
-      {
-        "identifier": "GENSEC_2627_036",
-        "specialty": "F55",
-        "institution": "Institut Escola del Treball",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "fins al 22/07/2026 a les 7 h",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_036 — F55 Oficina de Projectes de construcció (PFI)",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_36__F55_Oficina_de_Projectes_de_construccio_PFI.pdf",
-        "document_status": "nou"
-      },
-      {
-        "identifier": "MUNPRI_2627_009",
-        "specialty": "EES",
-        "institution": "CEE Vil·la Joana",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "fins al 24/07/2026 a les 8 h",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "MUNPRI_2627_009 — EES - Pedagogia terapèutica",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_9_CEE_VILLA_JOANA_EES_SUBS_RJ.pdf",
-        "document_status": "nou"
-      },
-      {
-        "identifier": "MUNSEC_2627_034",
-        "specialty": "Producció en Arts Gràfiques (623)",
-        "institution": "Institut del Disseny i Arts Gràfiques de Barcelona",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "fins al 23/07/2026 a les 13 h",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "MUNSEC_2627_034 — Producció en Arts Gràfiques (623)",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_034_I.IDAGB_623_Produccio_arts_grafiques.pdf",
-        "document_status": "nou"
-      },
-      {
-        "identifier": "Especialitat:",
-        "specialty": "NOM",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": null,
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "actualitzat"
       }
     ],
-    "removed": [
-      {
-        "identifier": "DC-15 Vacant",
-        "specialty": "AN",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-16 Vacant",
-        "specialty": "EF",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-14 4 Vacants",
-        "specialty": "509",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 4.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-12 2 Vacants",
-        "specialty": "610",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 2.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-06 Vacant",
-        "specialty": "PSI",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-10 Vacant",
-        "specialty": "PSI",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-09 Vacant",
-        "specialty": "PSI",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-13 2 Vacants",
-        "specialty": "509",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 2.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-07 Vacant",
-        "specialty": "PSI",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-08 Vacant",
-        "specialty": "PSI",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "DC-11 Vacant",
-        "specialty": "PSI",
-        "institution": null,
-        "municipality": null,
-        "vacancies": 1.0,
-        "deadline": "20 de juliol de 2026",
-        "region": "Terres de l’Ebre",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      }
-    ],
+    "removed": [],
     "updated": []
   },
   "collection": {
@@ -2762,7 +2587,7 @@
           {
             "title": "Oferta de vacants o substitucions",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "actualitzat"
+            "status": "sense canvis"
           }
         ]
       },
@@ -2771,19 +2596,24 @@
         "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
         "documents": [
           {
+            "title": "MUNSEC_2627_037 — 620 – Procediments sanitaris i assistencials",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_037_Ins_Ferran_Tallada_620.pdf",
+            "status": "nou"
+          },
+          {
             "title": "MUNSEC_2627_031 — Processos de Gestió Administrativa (622)",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_031_I.IDAGB_622_Processos_gestio_administrativa.pdf",
-            "status": "nou"
+            "status": "sense canvis"
           },
           {
             "title": "MUNSEC_2627_034 — Producció en Arts Gràfiques (623)",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC2627_034_I.IDAGB_623_Produccio_arts_grafiques.pdf",
-            "status": "nou"
+            "status": "sense canvis"
           },
           {
             "title": "MUNPRI_2627_009 — EES - Pedagogia terapèutica",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_9_CEE_VILLA_JOANA_EES_SUBS_RJ.pdf",
-            "status": "nou"
+            "status": "sense canvis"
           },
           {
             "title": "MUNSEC_2627_028 — Volum (725)",
@@ -2943,7 +2773,7 @@
           {
             "title": "GENSEC_2627_036 — F55 Oficina de Projectes de construcció (PFI)",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_36__F55_Oficina_de_Projectes_de_construccio_PFI.pdf",
-            "status": "nou"
+            "status": "sense canvis"
           },
           {
             "title": "MUNPRI_2627_005 — PAN",
