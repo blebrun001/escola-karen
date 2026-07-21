@@ -109,6 +109,16 @@ class DashboardTests(unittest.TestCase):
         self.assertIn("Darrera actualització", html)
         self.assertNotIn("Dernière mise à jour", html)
 
+    def test_static_page_exposes_daily_radar_and_progressive_exploration(self):
+        project_root = Path(__file__).resolve().parents[1]
+        html = (project_root / "dashboard" / "index.html").read_text(encoding="utf-8")
+        script = (project_root / "dashboard" / "app.js").read_text(encoding="utf-8")
+        self.assertIn('id="priority-offers"', html)
+        self.assertIn('id="offers-disclosure"', html)
+        self.assertIn('id="show-more"', html)
+        self.assertIn("const PAGE_SIZE = 25", script)
+        self.assertIn("showPriorityOffer", script)
+
     def test_static_builder_copies_data(self):
         project_root = Path(__file__).resolve().parents[1]
         with tempfile.TemporaryDirectory() as temp:

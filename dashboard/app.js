@@ -1,6 +1,7 @@
 "use strict";
 
-const state = { report: null, history: [], filtered: [] };
+const PAGE_SIZE = 25;
+const state = { report: null, history: [], filtered: [], visibleLimit: PAGE_SIZE };
 const $ = (selector) => document.querySelector(selector);
 
 const escapeHtml = (value) => String(value ?? "")
@@ -39,9 +40,35 @@ function documentStatus(status) {
   }[status] || ["status-unchanged", status];
 }
 
+function isTargetOffer(offer) {
+  if (!state.report) return false;
+  const targets = new Set(state.report.targets || []);
+  return targets.has(String(offer.specialty || "").replaceAll(" ", "").toUpperCase());
+}
+
+function deadlineValue(value) {
+  if (!value) return Number.POSITIVE_INFINITY;
+  const numeric = String(value).match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+  if (numeric) return Date.UTC(Number(numeric[3]), Number(numeric[2]) - 1, Number(numeric[1]));
+  const months = {
+    gener: 0, febrer: 1, març: 2, abril: 3, maig: 4, juny: 5,
+    juliol: 6, agost: 7, setembre: 8, octubre: 9, novembre: 10, desembre: 11
+  };
+  const written = String(value).toLocaleLowerCase("ca").match(/(\d{1,2})\s+de\s+([a-zà-ÿ]+)\s+de\s+(\d{4})/);
+  if (written && months[written[2]] !== undefined) {
+    return Date.UTC(Number(written[3]), months[written[2]], Number(written[1]));
+  }
+  return Number.POSITIVE_INFINITY;
+}
+
 function renderHeader(report, attempt) {
   const effectiveStatus = attempt?.status || report.status;
-  const [className, icon, label] = statusMeta(effectiveStatus);
+  const age = Date.now() - new Date(report.generated_at).getTime();
+  const isStale = age > 26 * 60 * 60 * 1000;
+  const [baseClass, baseIcon, baseLabel] = statusMeta(effectiveStatus);
+  const className = isStale && effectiveStatus !== "error" ? "status-partial" : baseClass;
+  const icon = isStale && effectiveStatus !== "error" ? "!" : baseIcon;
+  const label = isStale && effectiveStatus !== "error" ? "Informe desactualitzat" : baseLabel;
   $("#global-status").className = `status-pill ${className}`;
   $("#global-status").innerHTML = `<span aria-hidden="true">${icon}</span> ${label}`;
   $("#updated-at").textContent = formatDate(attempt?.attempted_at || report.generated_at, true);
@@ -50,24 +77,44 @@ function renderHeader(report, attempt) {
     $("#run-link").href = runUrl;
     $("#run-link").classList.remove("is-hidden");
   }
-  const age = Date.now() - new Date(report.generated_at).getTime();
-  $("#stale-warning").classList.toggle("is-hidden", age <= 26 * 60 * 60 * 1000);
+  $("#stale-warning").classList.toggle("is-hidden", !isStale);
 }
 
 function renderPriority(report) {
   const card = $("#priority-alert");
   const count = report.summary.interesting_count;
+  const priorityOffers = report.offers.filter(isTargetOffer);
   card.className = `priority-card ${report.status === "error" ? "priority-error" : count ? "priority-positive" : "priority-negative"}`;
   card.querySelector(".priority-icon").textContent = report.status === "error" ? "×" : count ? "✓" : "–";
   $("#priority-title").textContent = count
     ? `${count} ${count === 1 ? "oferta prioritària detectada" : "ofertes prioritàries detectades"}`
     : "Cap oferta GE o CLA detectada";
   $("#priority-copy").textContent = count
-    ? "Les ofertes destacades apareixen en primer lloc i també es poden filtrar a la taula."
-    : "No s’ha trobat cap coincidència exacta en la darrera verificació.";
+    ? "Revisa les dades essencials i obre directament el document oficial."
+    : "No cal fer res ara mateix. No s’ha trobat cap coincidència exacta en la darrera verificació.";
   const counts = report.summary.interesting_by_specialty || {};
   $("#priority-counts").innerHTML = ["GE", "CLA"]
     .map(code => `<span class="specialty-chip">${code} · ${counts[code] || 0}</span>`).join("");
+  $("#priority-offers").innerHTML = priorityOffers.map(offer => {
+    const index = report.offers.indexOf(offer);
+    return `<article class="priority-offer">
+      <div class="priority-offer-heading">
+        <span class="specialty-chip">${escapeHtml(offer.specialty)}</span>
+        <span class="priority-deadline"><span aria-hidden="true">◷</span> ${escapeHtml(offer.deadline || "Data límit no especificada")}</span>
+      </div>
+      <h3>${escapeHtml(offer.institution || "Centre no especificat")}</h3>
+      <dl class="offer-facts">
+        <div><dt>Territori</dt><dd>${escapeHtml(offer.region)}</dd></div>
+        <div><dt>Municipi</dt><dd>${escapeHtml(offer.municipality || "No especificat")}</dd></div>
+        <div><dt>Places</dt><dd>${escapeHtml(formatNumber(offer.vacancies))}</dd></div>
+        <div><dt>Identificador</dt><dd>${escapeHtml(offer.identifier || "No disponible")}</dd></div>
+      </dl>
+      <div class="priority-actions">
+        <a class="primary-button" href="${escapeHtml(offer.document_url)}" target="_blank" rel="noopener">Obre el PDF <span class="sr-only">de l’oferta ${escapeHtml(offer.identifier || offer.specialty)}</span><span aria-hidden="true">↗</span></a>
+        <button class="text-button show-priority-offer" type="button" data-offer-index="${index}" aria-label="Mostra l’oferta ${escapeHtml(offer.identifier || offer.specialty)} a la llista">Mostra-la a la llista</button>
+      </div>
+    </article>`;
+  }).join("");
 }
 
 function renderMetrics(report) {
@@ -117,6 +164,7 @@ function populateFilters(report) {
   const specialties = [...new Set(report.offers.map(offer => offer.specialty))].sort((a, b) => a.localeCompare(b, "ca"));
   $("#region-filter").insertAdjacentHTML("beforeend", regions.map(value => `<option>${escapeHtml(value)}</option>`).join(""));
   $("#specialty-filter").insertAdjacentHTML("beforeend", specialties.map(value => `<option>${escapeHtml(value)}</option>`).join(""));
+  $("#offers-overview").textContent = `${report.offers.length} ${report.offers.length === 1 ? "oferta disponible" : "ofertes disponibles"}`;
 }
 
 function renderOffers() {
@@ -125,20 +173,26 @@ function renderOffers() {
   const specialty = $("#specialty-filter").value;
   const targetOnly = $("#target-only").checked;
   const sortBy = $("#sort-filter").value;
-  const targets = new Set(state.report.targets);
   state.filtered = state.report.offers.filter(offer => {
     const haystack = [offer.region, offer.specialty, offer.identifier, offer.institution, offer.municipality, offer.detail].join(" ").toLocaleLowerCase("ca");
     return (!query || haystack.includes(query))
       && (!region || offer.region === region)
       && (!specialty || offer.specialty === specialty)
-      && (!targetOnly || targets.has(offer.specialty.replaceAll(" ", "").toUpperCase()));
-  }).sort((a, b) => String(a[sortBy] || "zzzz").localeCompare(String(b[sortBy] || "zzzz"), "ca"));
+      && (!targetOnly || isTargetOffer(offer));
+  }).sort((a, b) => {
+    const priorityOrder = Number(isTargetOffer(b)) - Number(isTargetOffer(a));
+    if (priorityOrder) return priorityOrder;
+    if (sortBy === "deadline") return deadlineValue(a.deadline) - deadlineValue(b.deadline);
+    return String(a[sortBy] || "zzzz").localeCompare(String(b[sortBy] || "zzzz"), "ca");
+  });
 
-  $("#offers-body").innerHTML = state.filtered.map(offer => {
+  const visible = state.filtered.slice(0, state.visibleLimit);
+  $("#offers-body").innerHTML = visible.map(offer => {
     const [className, statusLabel] = documentStatus(offer.document_status);
+    const specialtyClass = String(offer.specialty || "").length > 8 ? "specialty-label" : "specialty-chip";
     return `<tr>
       <td data-label="Territori">${escapeHtml(offer.region)}</td>
-      <td data-label="Especialitat"><span class="specialty-chip">${escapeHtml(offer.specialty)}</span></td>
+      <td data-label="Especialitat"><span class="${specialtyClass}">${escapeHtml(offer.specialty)}</span></td>
       <td data-label="Identificador">${escapeHtml(offer.identifier || "No disponible")}</td>
       <td data-label="Centre">${escapeHtml(offer.institution || "No especificat")}</td>
       <td data-label="Municipi">${escapeHtml(offer.municipality || "No especificat")}</td>
@@ -147,8 +201,30 @@ function renderOffers() {
       <td data-label="Document"><a class="pdf-link" href="${escapeHtml(offer.document_url)}" target="_blank" rel="noopener">Obre el PDF <span aria-hidden="true">↗</span></a><br><span class="document-status ${className}">${statusLabel}</span></td>
     </tr>`;
   }).join("");
-  $("#result-count").textContent = `${state.filtered.length} ${state.filtered.length === 1 ? "oferta visible" : "ofertes visibles"}`;
+  $("#result-count").textContent = state.filtered.length
+    ? `Es mostren ${visible.length} de ${state.filtered.length} ${state.filtered.length === 1 ? "oferta" : "ofertes"}`
+    : "0 ofertes";
   $("#empty-results").classList.toggle("is-hidden", state.filtered.length > 0);
+  $("#show-more").classList.toggle("is-hidden", visible.length >= state.filtered.length);
+}
+
+function resetOfferLimit() {
+  state.visibleLimit = PAGE_SIZE;
+  if (state.report) renderOffers();
+}
+
+function showPriorityOffer(index) {
+  const offer = state.report?.offers[index];
+  if (!offer) return;
+  $("#offers-disclosure").open = true;
+  $("#region-filter").value = offer.region;
+  $("#specialty-filter").value = offer.specialty;
+  $("#search").value = offer.identifier || offer.institution || "";
+  $("#target-only").checked = true;
+  state.visibleLimit = PAGE_SIZE;
+  renderOffers();
+  $("#offers-disclosure").scrollIntoView({ behavior: "smooth", block: "start" });
+  $("#search").focus({ preventScroll: true });
 }
 
 function renderHistory(entries) {
@@ -156,7 +232,10 @@ function renderHistory(entries) {
     $("#history").innerHTML = `<div class="empty-state"><span aria-hidden="true">◷</span><h3>Encara no hi ha prou historial</h3><p>Les comparacions apareixeran després de les properes verificacions.</p></div>`;
     return;
   }
-  $("#history").innerHTML = entries.map(entry => {
+  const intro = entries.length === 1
+    ? '<div class="notice notice-neutral"><span class="notice-icon" aria-hidden="true">i</span><div><strong>Primera verificació registrada</strong><p>Les tendències apareixeran quan hi hagi més dies per comparar.</p></div></div>'
+    : "";
+  $("#history").innerHTML = intro + entries.map(entry => {
     const [className, icon, label] = statusMeta(entry.status);
     return `<article class="history-row">
       <p class="history-date"><strong>${formatDate(entry.generated_at)}</strong><span class="status-pill ${className}"><span aria-hidden="true">${icon}</span>${label}</span></p>
@@ -176,6 +255,12 @@ function showLoadError(error) {
   card.querySelector(".priority-icon").textContent = "×";
   $("#priority-title").textContent = "No s’ha pogut obrir el darrer informe";
   $("#priority-copy").textContent = "Torneu-ho a provar més tard o consulteu l’execució de GitHub Actions.";
+  $("#priority-offers").innerHTML = "";
+  $("#metrics").innerHTML = '<div class="empty-state compact-empty"><h3>Resum no disponible</h3><p>No s’han pogut carregar els indicadors.</p></div>';
+  $("#regions").innerHTML = '<div class="empty-state compact-empty"><h3>Territoris no disponibles</h3><p>Torneu-ho a provar més tard.</p></div>';
+  $("#offers-body").innerHTML = "";
+  $("#offers-overview").textContent = "Ofertes no disponibles";
+  $("#history").innerHTML = '<div class="empty-state compact-empty"><h3>Historial no disponible</h3><p>Torneu-ho a provar més tard.</p></div>';
   console.error(error);
 }
 
@@ -203,7 +288,15 @@ async function start() {
   }
 }
 
-$("#filters").addEventListener("input", renderOffers);
-$("#filters").addEventListener("change", renderOffers);
-$("#filters").addEventListener("reset", () => window.setTimeout(renderOffers));
+$("#filters").addEventListener("input", resetOfferLimit);
+$("#filters").addEventListener("change", resetOfferLimit);
+$("#filters").addEventListener("reset", () => window.setTimeout(resetOfferLimit));
+$("#show-more").addEventListener("click", () => {
+  state.visibleLimit += PAGE_SIZE;
+  renderOffers();
+});
+$("#priority-offers").addEventListener("click", event => {
+  const button = event.target.closest(".show-priority-offer");
+  if (button) showPriorityOffer(Number(button.dataset.offerIndex));
+});
 start();

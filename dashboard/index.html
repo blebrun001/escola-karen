@@ -16,7 +16,7 @@
       <div>
         <p class="eyebrow">Seguiment diari</p>
         <h1>Ofertes docents de difícil cobertura</h1>
-        <p class="header-intro">Tots els territoris configurats, una consulta clara i les especialitats GE i CLA sempre en primer pla.</p>
+        <p class="header-intro">Comprova primer les especialitats GE i CLA i consulta la resta només quan ho necessitis.</p>
       </div>
       <div class="update-panel" aria-live="polite">
         <span id="global-status" class="status-pill status-loading">
@@ -37,13 +37,16 @@
     </div>
 
     <section id="priority-alert" class="priority-card priority-loading" aria-labelledby="priority-title" aria-live="polite">
-      <div class="priority-icon" aria-hidden="true">◌</div>
-      <div>
-        <p class="eyebrow">Especialitats prioritàries</p>
-        <h2 id="priority-title">Comprovant GE i CLA…</h2>
-        <p id="priority-copy">S’estan carregant les dades de la darrera verificació.</p>
+      <div class="priority-overview">
+        <div class="priority-icon" aria-hidden="true">◌</div>
+        <div class="priority-message">
+          <p class="eyebrow">Radar GE / CLA</p>
+          <h2 id="priority-title">Comprovant les ofertes prioritàries…</h2>
+          <p id="priority-copy">S’estan carregant les dades de la darrera verificació.</p>
+        </div>
+        <div id="priority-counts" class="priority-counts"></div>
       </div>
-      <div id="priority-counts" class="priority-counts"></div>
+      <div id="priority-offers" class="priority-offers"></div>
     </section>
 
     <section aria-labelledby="summary-title">
@@ -58,81 +61,105 @@
     </section>
 
     <section aria-labelledby="regions-title">
-      <div class="section-heading">
-        <div><p class="eyebrow">Per territori</p><h2 id="regions-title">Resum territorial</h2></div>
-        <p>Cada territori mostra les fonts analitzades i els possibles avisos d’extracció.</p>
-      </div>
-      <div id="regions" class="region-grid">
-        <div class="region-card skeleton"></div><div class="region-card skeleton"></div>
-      </div>
+      <details class="disclosure-section">
+        <summary>
+          <span><span class="eyebrow">Per territori</span><span id="regions-title" class="disclosure-title">Consulta el resum territorial</span></span>
+          <span class="disclosure-hint">Ofertes, especialitats i fonts dels territoris</span>
+        </summary>
+        <div class="disclosure-content">
+          <div id="regions" class="region-grid">
+            <div class="region-card skeleton"></div><div class="region-card skeleton"></div>
+          </div>
+        </div>
+      </details>
     </section>
 
     <section aria-labelledby="offers-title">
-      <div class="section-heading">
-        <div><p class="eyebrow">Consulta detallada</p><h2 id="offers-title">Totes les ofertes</h2></div>
-        <p id="result-count" aria-live="polite"></p>
-      </div>
-      <form id="filters" class="filter-panel">
-        <label class="search-field">
-          <span>Cerca</span>
-          <input id="search" type="search" placeholder="Centre, municipi o identificador">
-        </label>
-        <label>
-          <span>Territori</span>
-          <select id="region-filter"><option value="">Tots els territoris</option></select>
-        </label>
-        <label>
-          <span>Especialitat</span>
-          <select id="specialty-filter"><option value="">Totes les especialitats</option></select>
-        </label>
-        <label>
-          <span>Ordena per</span>
-          <select id="sort-filter">
-            <option value="region">Territori</option>
-            <option value="specialty">Especialitat</option>
-            <option value="deadline">Data límit</option>
-          </select>
-        </label>
-        <label class="check-field">
-          <input id="target-only" type="checkbox">
-          <span>Només GE i CLA</span>
-        </label>
-        <button id="clear-filters" class="secondary-button" type="reset">Neteja els filtres</button>
-      </form>
+      <details id="offers-disclosure" class="disclosure-section offers-disclosure">
+        <summary>
+          <span><span class="eyebrow">Consulta detallada</span><span id="offers-title" class="disclosure-title">Explora totes les ofertes</span></span>
+          <span id="offers-overview" class="disclosure-hint">Carregant el nombre d’ofertes…</span>
+        </summary>
+        <div class="disclosure-content">
+          <form id="filters" class="filter-panel">
+            <label class="search-field">
+              <span>Cerca</span>
+              <input id="search" type="search" placeholder="Centre, municipi o identificador">
+            </label>
+            <label>
+              <span>Territori</span>
+              <select id="region-filter"><option value="">Tots els territoris</option></select>
+            </label>
+            <label>
+              <span>Especialitat</span>
+              <select id="specialty-filter"><option value="">Totes les especialitats</option></select>
+            </label>
+            <label>
+              <span>Ordena per</span>
+              <select id="sort-filter">
+                <option value="region">Territori</option>
+                <option value="specialty">Especialitat</option>
+                <option value="deadline">Data límit</option>
+              </select>
+            </label>
+            <label class="check-field">
+              <input id="target-only" type="checkbox">
+              <span>Només GE i CLA</span>
+            </label>
+            <button id="clear-filters" class="secondary-button" type="reset">Neteja els filtres</button>
+          </form>
 
-      <div class="table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th scope="col">Territori</th><th scope="col">Especialitat</th>
-              <th scope="col">Identificador</th><th scope="col">Centre</th>
-              <th scope="col">Municipi</th><th scope="col">Places</th>
-              <th scope="col">Data límit</th><th scope="col">Document</th>
-            </tr>
-          </thead>
-          <tbody id="offers-body"></tbody>
-        </table>
-        <div id="empty-results" class="empty-state is-hidden">
-          <span aria-hidden="true">⌕</span>
-          <h3>Cap oferta coincideix amb els filtres</h3>
-          <p>Modifiqueu la cerca o netegeu els filtres per tornar a veure totes les ofertes.</p>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Territori</th><th scope="col">Especialitat</th>
+                  <th scope="col">Identificador</th><th scope="col">Centre</th>
+                  <th scope="col">Municipi</th><th scope="col">Places</th>
+                  <th scope="col">Data límit</th><th scope="col">Document</th>
+                </tr>
+              </thead>
+              <tbody id="offers-body"></tbody>
+            </table>
+            <div id="empty-results" class="empty-state is-hidden">
+              <span aria-hidden="true">⌕</span>
+              <h3>Cap oferta coincideix amb els filtres</h3>
+              <p>Modifiqueu la cerca o netegeu els filtres per tornar a veure totes les ofertes.</p>
+            </div>
+          </div>
+          <div class="results-footer">
+            <p id="result-count" aria-live="polite"></p>
+            <button id="show-more" class="outline-button is-hidden" type="button">Mostra 25 ofertes més</button>
+          </div>
         </div>
-      </div>
+      </details>
     </section>
 
     <section aria-labelledby="history-title">
-      <div class="section-heading">
-        <div><p class="eyebrow">Fins a 90 dies</p><h2 id="history-title">Historial de verificacions</h2></div>
-      </div>
-      <div id="history" class="history-list">
-        <div class="history-row skeleton"></div>
-      </div>
+      <details class="disclosure-section">
+        <summary>
+          <span><span class="eyebrow">Fins a 90 dies</span><span id="history-title" class="disclosure-title">Consulta l’historial</span></span>
+          <span class="disclosure-hint">Evolució, incorporacions i retirades</span>
+        </summary>
+        <div class="disclosure-content">
+          <div id="history" class="history-list">
+            <div class="history-row skeleton"></div>
+          </div>
+        </div>
+      </details>
     </section>
 
-    <section class="method-card" aria-labelledby="method-title">
-      <div><p class="eyebrow">Fonts i mètode</p><h2 id="method-title">Com s’obtenen les dades?</h2></div>
-      <p>El sistema consulta cada dia les pàgines oficials dels serveis territorials, analitza els PDF publicats i compara la seva empremta digital amb la verificació anterior.</p>
-      <p>Una oferta es destaca només quan el codi d’especialitat és exactament <strong>GE</strong> o <strong>CLA</strong>. Un PDF buit no es considera un error d’extracció.</p>
+    <section aria-labelledby="method-title">
+      <details class="disclosure-section method-disclosure">
+        <summary>
+          <span><span class="eyebrow">Transparència</span><span id="method-title" class="disclosure-title">Fonts i mètode</span></span>
+          <span class="disclosure-hint">Com s’obtenen i es verifiquen les dades</span>
+        </summary>
+        <div class="method-card disclosure-content">
+          <p>El sistema consulta cada dia les pàgines oficials dels serveis territorials, analitza els PDF publicats i compara la seva empremta digital amb la verificació anterior.</p>
+          <p>Una oferta es destaca només quan el codi d’especialitat és exactament <strong>GE</strong> o <strong>CLA</strong>. Un PDF buit no es considera un error d’extracció.</p>
+        </div>
+      </details>
     </section>
   </main>
 
