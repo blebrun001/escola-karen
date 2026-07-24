@@ -1,12 +1,16 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-07-23T15:20:09.264993+00:00",
+  "attempted_at": "2026-07-24T15:03:45.160244+00:00",
   "status": "partial",
   "last_successful_at": "2026-07-17T14:50:44.112016+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/30020025153",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/30103646658",
   "errors": [
     {
       "region": "Tarragona",
+      "message": "No s’ha pogut analitzar el format del PDF."
+    },
+    {
+      "region": "Penedès",
       "message": "No s’ha pogut analitzar el format del PDF."
     },
     {
