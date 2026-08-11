@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-08-10T14:23:24.332685+00:00",
+  "attempted_at": "2026-08-11T14:23:26.475161+00:00",
   "status": "partial",
   "last_successful_at": "2026-07-17T14:50:44.112016+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/31397832431",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/31501239079",
   "errors": [
     {
       "region": "Tarragona",
