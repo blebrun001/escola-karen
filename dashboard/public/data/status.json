@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-08-29T17:05:13.143137+00:00",
+  "attempted_at": "2026-08-30T17:22:56.897325+00:00",
   "status": "partial",
   "last_successful_at": "2026-07-17T14:50:44.112016+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/33264683933",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/33325089201",
   "errors": [
     {
       "region": "Penedès",
