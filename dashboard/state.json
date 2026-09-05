@@ -1,24 +1,24 @@
 {
-  "last_run": "2026-09-04T16:49:40.577085+00:00",
+  "last_run": "2026-09-05T15:59:34.433918+00:00",
   "documents": {
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "c31482847aa17c58d29e8c4025b3eada8be8bf7738fd8c6ef834bd90e0bee0ac",
-      "last_seen": "2026-09-04T16:49:40.577085+00:00",
+      "last_seen": "2026-09-05T15:59:34.433918+00:00",
       "region": "Tarragona"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "ff08769af1631ad4adc752cf385c8d57acfe537dd102a242af975e7b8a842833",
-      "last_seen": "2026-09-04T16:49:40.577085+00:00",
+      "last_seen": "2026-09-05T15:59:34.433918+00:00",
       "region": "Penedès"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf": {
-      "sha256": "ce18014b532f570df25347e7a675d46c5c7754f2cf80933759402b36bd9a8d82",
-      "last_seen": "2026-09-04T16:49:40.577085+00:00",
+      "sha256": "60fbf46eb5fd17e5b38db84d284a690fd8facfea11943618afdf5ffa2a3ba97e",
+      "last_seen": "2026-09-05T15:59:34.433918+00:00",
       "region": "Baix Llobregat"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "41757b92346228b3414ecfd1f6c02c1cabf50a7c5f42357c7d4117a1954b406a",
-      "last_seen": "2026-09-04T16:49:40.577085+00:00",
+      "last_seen": "2026-09-05T15:59:34.433918+00:00",
       "region": "Terres de l’Ebre"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_1_Escola_Tres_Pins_PRI_LSC.pdf": {
@@ -128,7 +128,7 @@
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-pe.pdf": {
       "sha256": "a8bc6e0f21953cfd6132bb1ab460dcfca0154d978274374d00c6e3e0d3d6ef5a",
-      "last_seen": "2026-09-04T16:49:40.577085+00:00",
+      "last_seen": "2026-09-05T15:59:34.433918+00:00",
       "region": "Tarragona"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_131_Ins._Pablo_Picasso_609.pdf": {
@@ -183,7 +183,7 @@
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/Barcelones-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "f626e2eed65c92b797a61322c8f6a0c8b8f36246d4c1b578d2133855730f3372",
-      "last_seen": "2026-09-04T16:49:40.577085+00:00",
+      "last_seen": "2026-09-05T15:59:34.433918+00:00",
       "region": "Barcelonès"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_137_CFA_El_Clot_SCO.pdf": {
