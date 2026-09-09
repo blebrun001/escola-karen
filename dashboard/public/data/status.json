@@ -1,13 +1,8 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-09-08T17:13:22.414395+00:00",
-  "status": "partial",
-  "last_successful_at": "2026-07-17T14:50:44.112016+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/34255739698",
-  "errors": [
-    {
-      "region": "Terres de l’Ebre",
-      "message": "No s’ha pogut analitzar el format del PDF."
-    }
-  ]
+  "attempted_at": "2026-09-09T17:07:49.732648+00:00",
+  "status": "success",
+  "last_successful_at": "2026-09-09T17:07:49.732648+00:00",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/34380982879",
+  "errors": []
 }
