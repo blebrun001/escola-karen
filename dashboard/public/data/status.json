@@ -1,13 +1,17 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-09-17T17:35:56.528532+00:00",
+  "attempted_at": "2026-09-18T17:03:30.463477+00:00",
   "status": "partial",
   "last_successful_at": "2026-09-09T17:07:49.732648+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/35253683438",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/35372044568",
   "errors": [
     {
       "region": "Barcelonès",
       "message": "No s’ha detectat cap PDF d’ofertes a la pàgina."
+    },
+    {
+      "region": "Barcelona — Consorci d’Educació",
+      "message": "<urlopen error timed out>"
     }
   ]
 }
