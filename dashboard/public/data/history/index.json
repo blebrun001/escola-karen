@@ -1,7 +1,21 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-29T18:34:38.938648+00:00",
+  "updated_at": "2026-09-30T18:24:51.420784+00:00",
   "entries": [
+    {
+      "date": "2026-09-30",
+      "generated_at": "2026-09-30T18:24:51.420784+00:00",
+      "status": "partial",
+      "offers_count": 100,
+      "vacancies_total": 39.0,
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "changes": {
+        "added": 39,
+        "removed": 7,
+        "updated": 0
+      }
+    },
     {
       "date": "2026-09-29",
       "generated_at": "2026-09-29T18:34:38.938648+00:00",
