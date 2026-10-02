@@ -1,13 +1,8 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-01T18:48:52.336969+00:00",
-  "status": "partial",
-  "last_successful_at": "2026-09-09T17:07:49.732648+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/36909595829",
-  "errors": [
-    {
-      "region": "Barcelonès",
-      "message": "No s’ha detectat cap PDF d’ofertes a la pàgina."
-    }
-  ]
+  "attempted_at": "2026-10-02T18:21:24.598156+00:00",
+  "status": "success",
+  "last_successful_at": "2026-10-02T18:21:24.598156+00:00",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/37046830365",
+  "errors": []
 }
