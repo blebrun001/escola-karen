@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-07T19:18:25.723223+00:00",
+  "attempted_at": "2026-10-08T19:14:43.902368+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/37673424396",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/37830446175",
   "errors": [
     {
       "region": "Terres de l’Ebre",
