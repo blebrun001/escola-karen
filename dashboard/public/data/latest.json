@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T17:47:35.651732+00:00",
+  "generated_at": "2026-10-11T18:00:23.154099+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/38073161179",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/38161960605",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 76,
+    "offers_count": 75,
     "vacancies_total": 17.0,
     "active_regions": 4,
     "documents": {
       "new": 0,
-      "updated": 0,
-      "unchanged": 22,
+      "updated": 1,
+      "unchanged": 21,
       "error": 0,
       "removed": 0
     },
@@ -40,21 +40,16 @@
     {
       "name": "Tarragona",
       "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "offers_count": 2,
+      "offers_count": 1,
       "vacancies_total": null,
       "top_specialties": [
         {
           "code": "PSI",
           "count": 1
-        },
-        {
-          "code": "IPS",
-          "count": 1
         }
       ],
       "specialties": {
-        "PSI": 1,
-        "IPS": 1
+        "PSI": 1
       },
       "interesting_count": 0,
       "interesting_by_specialty": {},
@@ -62,7 +57,7 @@
         {
           "title": "Oferta de vacants.",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "sense canvis",
+          "status": "actualitzat",
           "note": "",
           "warning": ""
         },
@@ -369,9 +364,9 @@
   ],
   "offers": [
     {
-      "identifier": "111-43005741",
+      "identifier": "113-43003641",
       "specialty": "PSI",
-      "institution": "111-43005741 Nom del centre Ntra. Sra. del Mar Municipi Reus Jornada 0,5 Requisits Experiència en atenció amb alumn Experiència en atenció educativa Formació específica en salut men Mèrits Entrevista Prova de ✔ Sí ☐ No ☐ ☐ Sí ☐✔ Observacions Atenció domiciliària d´alumne de 4 erveis Territorials a Tarragona Oferta de vacants o substitucions Dades de la plaça",
+      "institution": "113-43003641 Nom del centre Institut Antoni de Martí i Fran Municipi Tarragona Jornada 0,5 Requisits Experiència en atenció amb alu Experiència en atenció educati Formació específica en salut m Mèrits Entrevista Prova ☐ Sí ☐ No ☐ Sí ☐ Observacions Atenció domiciliaria Alumne 2n ESO Nivell B1 d´anglès",
       "municipality": null,
       "vacancies": null,
       "deadline": null,
@@ -379,20 +374,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants.",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "sense canvis"
-    },
-    {
-      "identifier": "112-43008432",
-      "specialty": "IPS",
-      "institution": "112-43008432 Nom del centre Institut Sant Pere i Sant Pau Municipi Tarragona Jornada Sencera Requisits Mèrits Experiència en PFI, PQPI, trac qualificació. Experiència labo per treballar amb alumnes dels Entrevista Prov ✔ Sí ☐ No ☐ ☐ Sí Observacions IFE: Orientació educativa",
-      "municipality": null,
-      "vacancies": null,
-      "deadline": null,
-      "region": "Tarragona",
-      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "document_title": "Oferta de vacants.",
-      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "sense canvis"
+      "document_status": "actualitzat"
     },
     {
       "identifier": "19701788",
@@ -1359,8 +1341,49 @@
   ],
   "interesting_offers": [],
   "changes": {
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "identifier": "113-43003641",
+        "specialty": "PSI",
+        "institution": "113-43003641 Nom del centre Institut Antoni de Martí i Fran Municipi Tarragona Jornada 0,5 Requisits Experiència en atenció amb alu Experiència en atenció educati Formació específica en salut m Mèrits Entrevista Prova ☐ Sí ☐ No ☐ Sí ☐ Observacions Atenció domiciliaria Alumne 2n ESO Nivell B1 d´anglès",
+        "municipality": null,
+        "vacancies": null,
+        "deadline": null,
+        "region": "Tarragona",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants.",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "document_status": "actualitzat"
+      }
+    ],
+    "removed": [
+      {
+        "identifier": "112-43008432",
+        "specialty": "IPS",
+        "institution": "112-43008432 Nom del centre Institut Sant Pere i Sant Pau Municipi Tarragona Jornada Sencera Requisits Mèrits Experiència en PFI, PQPI, trac qualificació. Experiència labo per treballar amb alumnes dels Entrevista Prov ✔ Sí ☐ No ☐ ☐ Sí Observacions IFE: Orientació educativa",
+        "municipality": null,
+        "vacancies": null,
+        "deadline": null,
+        "region": "Tarragona",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants.",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "document_status": "sense canvis"
+      },
+      {
+        "identifier": "111-43005741",
+        "specialty": "PSI",
+        "institution": "111-43005741 Nom del centre Ntra. Sra. del Mar Municipi Reus Jornada 0,5 Requisits Experiència en atenció amb alumn Experiència en atenció educativa Formació específica en salut men Mèrits Entrevista Prova de ✔ Sí ☐ No ☐ ☐ Sí ☐✔ Observacions Atenció domiciliària d´alumne de 4 erveis Territorials a Tarragona Oferta de vacants o substitucions Dades de la plaça",
+        "municipality": null,
+        "vacancies": null,
+        "deadline": null,
+        "region": "Tarragona",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants.",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "document_status": "sense canvis"
+      }
+    ],
     "updated": []
   },
   "collection": {
@@ -1372,7 +1395,7 @@
           {
             "title": "Oferta de vacants.",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "sense canvis"
+            "status": "actualitzat"
           },
           {
             "title": "Vacants i substitucions de professorat especialista",
