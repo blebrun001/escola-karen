@@ -1,7 +1,23 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T16:19:02.235244+00:00",
+  "updated_at": "2026-10-18T16:28:20.951478+00:00",
   "entries": [
+    {
+      "date": "2026-10-18",
+      "generated_at": "2026-10-18T16:28:20.951478+00:00",
+      "status": "partial",
+      "offers_count": 64,
+      "vacancies_total": 9.0,
+      "interesting_count": 1,
+      "interesting_by_specialty": {
+        "CLA": 1
+      },
+      "changes": {
+        "added": 0,
+        "removed": 0,
+        "updated": 0
+      }
+    },
     {
       "date": "2026-10-17",
       "generated_at": "2026-10-17T16:19:02.235244+00:00",
@@ -1316,20 +1332,6 @@
         "added": 1,
         "removed": 0,
         "updated": 0
-      }
-    },
-    {
-      "date": "2026-07-20",
-      "generated_at": "2026-07-20T15:19:12.870574+00:00",
-      "status": "partial",
-      "offers_count": 153,
-      "vacancies_total": 157.0,
-      "interesting_count": 0,
-      "interesting_by_specialty": {},
-      "changes": {
-        "added": 15,
-        "removed": 0,
-        "updated": 1
       }
     }
   ]
