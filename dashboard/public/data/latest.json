@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T16:28:20.951478+00:00",
+  "generated_at": "2026-10-19T19:15:04.902375+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/39145124274",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/39309343169",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 64,
-    "vacancies_total": 9.0,
+    "offers_count": 65,
+    "vacancies_total": 10.0,
     "active_regions": 4,
     "documents": {
-      "new": 0,
+      "new": 2,
       "updated": 0,
-      "unchanged": 13,
+      "unchanged": 12,
       "error": 0,
-      "removed": 0
+      "removed": 1
     },
     "top_specialties": [
       {
@@ -208,26 +208,27 @@
     {
       "name": "Barcelona — Consorci d’Educació",
       "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "offers_count": 8,
-      "vacancies_total": 8.0,
+      "offers_count": 9,
+      "vacancies_total": 9.0,
       "top_specialties": [
         {
           "code": "Programa d’Atenció Educativa Domiciliària",
           "count": 3
         },
         {
-          "code": "SCS",
+          "code": "707",
           "count": 1
         },
         {
-          "code": "PMU",
+          "code": "EES",
           "count": 1
         }
       ],
       "specialties": {
         "Programa d’Atenció Educativa Domiciliària": 3,
+        "707": 1,
+        "EES": 1,
         "SCS": 1,
-        "PMU": 1,
         "PRI": 1,
         "460": 1,
         "PRIMÀRIA + LSC (Llengua de Signes)": 1
@@ -235,6 +236,20 @@
       "interesting_count": 0,
       "interesting_by_specialty": {},
       "documents": [
+        {
+          "title": "GENSEC_2627_179 — 707 – Dibuix artístic i color",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_179_EA_Llotja_707_2.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
         {
           "title": "GENSEC_2627_186 — SCS - Àmbit social amb COMPETIC",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_186_CFA_LES_CORTS_SCS.pdf",
@@ -259,13 +274,6 @@
         {
           "title": "GENSEC_2627_167 — Programa d’Atenció Educativa Domiciliària",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_167_AED_I_BarcelonaCongres.pdf",
-          "status": "sense canvis",
-          "note": "",
-          "warning": ""
-        },
-        {
-          "title": "GENPRI_2627_041 — PMU",
-          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf",
           "status": "sense canvis",
           "note": "",
           "warning": ""
@@ -1026,6 +1034,32 @@
       "document_status": "sense canvis"
     },
     {
+      "identifier": "GENSEC_2627_179",
+      "specialty": "707",
+      "institution": "EA Llotja",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 21/10/2026 a les 12.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_179 — 707 – Dibuix artístic i color",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_179_EA_Llotja_707_2.pdf",
+      "document_status": "nou"
+    },
+    {
+      "identifier": "GENPRI_2627_065",
+      "specialty": "EES",
+      "institution": "CEE Lèxia",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "obert fins a cobrir substitucions vigents",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
+      "document_status": "nou"
+    },
+    {
       "identifier": "GENSEC_2627_186",
       "specialty": "SCS",
       "institution": "CFA Les Corts",
@@ -1075,19 +1109,6 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "GENSEC_2627_167 — Programa d’Atenció Educativa Domiciliària",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_167_AED_I_BarcelonaCongres.pdf",
-      "document_status": "sense canvis"
-    },
-    {
-      "identifier": "GENPRI_2627_041",
-      "specialty": "PMU",
-      "institution": "CEE Lèxia",
-      "municipality": "Barcelona",
-      "vacancies": 1.0,
-      "deadline": "fins a cobrir vacant",
-      "region": "Barcelona — Consorci d’Educació",
-      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "document_title": "GENPRI_2627_041 — PMU",
-      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf",
       "document_status": "sense canvis"
     },
     {
@@ -1146,8 +1167,49 @@
     }
   ],
   "changes": {
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "identifier": "GENSEC_2627_179",
+        "specialty": "707",
+        "institution": "EA Llotja",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins al 21/10/2026 a les 12.00 h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "GENSEC_2627_179 — 707 – Dibuix artístic i color",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_179_EA_Llotja_707_2.pdf",
+        "document_status": "nou"
+      },
+      {
+        "identifier": "GENPRI_2627_065",
+        "specialty": "EES",
+        "institution": "CEE Lèxia",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "obert fins a cobrir substitucions vigents",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
+        "document_status": "nou"
+      }
+    ],
+    "removed": [
+      {
+        "identifier": "GENPRI_2627_041",
+        "specialty": "PMU",
+        "institution": "CEE Lèxia",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins a cobrir vacant",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "GENPRI_2627_041 — PMU",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf",
+        "document_status": "sense canvis"
+      }
+    ],
     "updated": []
   },
   "collection": {
@@ -1211,6 +1273,16 @@
         "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
         "documents": [
           {
+            "title": "GENSEC_2627_179 — 707 – Dibuix artístic i color",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_179_EA_Llotja_707_2.pdf",
+            "status": "nou"
+          },
+          {
+            "title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
+            "status": "nou"
+          },
+          {
             "title": "GENSEC_2627_186 — SCS - Àmbit social amb COMPETIC",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_186_CFA_LES_CORTS_SCS.pdf",
             "status": "sense canvis"
@@ -1228,11 +1300,6 @@
           {
             "title": "GENSEC_2627_167 — Programa d’Atenció Educativa Domiciliària",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_167_AED_I_BarcelonaCongres.pdf",
-            "status": "sense canvis"
-          },
-          {
-            "title": "GENPRI_2627_041 — PMU",
-            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf",
             "status": "sense canvis"
           },
           {
