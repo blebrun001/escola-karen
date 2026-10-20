@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T19:15:04.902375+00:00",
+  "generated_at": "2026-10-20T17:56:18.014733+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/39309343169",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/39470340560",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 65,
-    "vacancies_total": 10.0,
-    "active_regions": 4,
+    "offers_count": 69,
+    "vacancies_total": 14.0,
+    "active_regions": 3,
     "documents": {
-      "new": 2,
-      "updated": 0,
-      "unchanged": 12,
+      "new": 6,
+      "updated": 2,
+      "unchanged": 11,
       "error": 0,
       "removed": 1
     },
@@ -52,7 +52,7 @@
         {
           "title": "Oferta de vacants.",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "sense canvis",
+          "status": "actualitzat",
           "note": "",
           "warning": "No s’ha pogut analitzar el format del PDF."
         },
@@ -180,55 +180,54 @@
     {
       "name": "Terres de l’Ebre",
       "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "offers_count": 1,
-      "vacancies_total": 1.0,
-      "top_specialties": [
-        {
-          "code": "NOM",
-          "count": 1
-        }
-      ],
-      "specialties": {
-        "NOM": 1
-      },
+      "offers_count": 0,
+      "vacancies_total": null,
+      "top_specialties": [],
+      "specialties": {},
       "interesting_count": 0,
       "interesting_by_specialty": {},
       "documents": [
         {
           "title": "Oferta de vacants o substitucions",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "sense canvis",
+          "status": "actualitzat",
           "note": "",
-          "warning": ""
+          "warning": "No s’ha pogut analitzar el format del PDF."
         }
       ],
-      "warnings": [],
+      "warnings": [
+        "No s’ha pogut analitzar el format del PDF."
+      ],
       "error": ""
     },
     {
       "name": "Barcelona — Consorci d’Educació",
       "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "offers_count": 9,
-      "vacancies_total": 9.0,
+      "offers_count": 14,
+      "vacancies_total": 14.0,
       "top_specialties": [
         {
           "code": "Programa d’Atenció Educativa Domiciliària",
           "count": 3
         },
         {
-          "code": "707",
-          "count": 1
+          "code": "Matemàtiques",
+          "count": 2
         },
         {
-          "code": "EES",
+          "code": "PRIMÀRIA",
           "count": 1
         }
       ],
       "specialties": {
         "Programa d’Atenció Educativa Domiciliària": 3,
+        "Matemàtiques": 2,
+        "PRIMÀRIA": 1,
+        "507": 1,
+        "SCO": 1,
+        "FMG": 1,
         "707": 1,
         "EES": 1,
-        "SCS": 1,
         "PRI": 1,
         "460": 1,
         "PRIMÀRIA + LSC (Llengua de Signes)": 1
@@ -237,22 +236,57 @@
       "interesting_by_specialty": {},
       "documents": [
         {
+          "title": "MUNSEC_2627_056 — Matemàtiques",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_56_MUNDET_MA.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "MUNSEC_2627_055 — Matemàtiques",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_55_MUNDET_MA.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENPRI_2627_067 — PRIMÀRIA",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_67_CREDV_ONCE_PRI.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENSEC_2627_187 — 507 – Informàtica",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_187_Ins_Poblenou_507.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "MUNSEC_2627_053 — SCO – LE (Àmbit de la Comunicació)",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_53_CFA_FRANCESC_LAYRET_SCO_LE.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "MUNSEC_2627_054 — FMG - Mòduls generals PFI (PSI, 505, LC, LE, MA)",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_054_Ins_Lluisa_Cura_PFI_505.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
           "title": "GENSEC_2627_179 — 707 – Dibuix artístic i color",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_179_EA_Llotja_707_2.pdf",
-          "status": "nou",
+          "status": "sense canvis",
           "note": "",
           "warning": ""
         },
         {
           "title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
-          "status": "nou",
-          "note": "",
-          "warning": ""
-        },
-        {
-          "title": "GENSEC_2627_186 — SCS - Àmbit social amb COMPETIC",
-          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_186_CFA_LES_CORTS_SCS.pdf",
           "status": "sense canvis",
           "note": "",
           "warning": ""
@@ -1021,17 +1055,82 @@
       "document_status": "sense canvis"
     },
     {
-      "identifier": "Especialitat:",
-      "specialty": "NOM",
-      "institution": null,
-      "municipality": null,
+      "identifier": "MUNSEC_2627_056",
+      "specialty": "Matemàtiques",
+      "institution": "Institut Anna Gironella de Mundet",
+      "municipality": "Barcelona",
       "vacancies": 1.0,
-      "deadline": null,
-      "region": "Terres de l’Ebre",
-      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "document_title": "Oferta de vacants o substitucions",
-      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "sense canvis"
+      "deadline": "fins al 23/10/2026 a les 08.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "MUNSEC_2627_056 — Matemàtiques",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_56_MUNDET_MA.pdf",
+      "document_status": "nou"
+    },
+    {
+      "identifier": "MUNSEC_2627_055",
+      "specialty": "Matemàtiques",
+      "institution": "Institut Anna Gironella de Mundet",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 23/10/2026 a les 08.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "MUNSEC_2627_055 — Matemàtiques",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_55_MUNDET_MA.pdf",
+      "document_status": "nou"
+    },
+    {
+      "identifier": "GENPRI_2627_067",
+      "specialty": "PRIMÀRIA",
+      "institution": "CREDV ONCE BARCELONA",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 22/10/2026 a les 12.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_067 — PRIMÀRIA",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_67_CREDV_ONCE_PRI.pdf",
+      "document_status": "nou"
+    },
+    {
+      "identifier": "GENSEC_2627_187",
+      "specialty": "507",
+      "institution": "Institut Poblenou",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 22/10/2026 a les 11.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_187 — 507 – Informàtica",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_187_Ins_Poblenou_507.pdf",
+      "document_status": "nou"
+    },
+    {
+      "identifier": "MUNSEC_2627_053",
+      "specialty": "SCO",
+      "institution": "CFA Francesc Layret",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al dijous 22/10/2026 a les 12.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "MUNSEC_2627_053 — SCO – LE (Àmbit de la Comunicació)",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_53_CFA_FRANCESC_LAYRET_SCO_LE.pdf",
+      "document_status": "nou"
+    },
+    {
+      "identifier": "MUNSEC_2627_054",
+      "specialty": "FMG",
+      "institution": "Institut Lluïsa Cura",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 22/10/2026 a les 10.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "MUNSEC_2627_054 — FMG - Mòduls generals PFI (PSI, 505, LC, LE, MA)",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_054_Ins_Lluisa_Cura_PFI_505.pdf",
+      "document_status": "nou"
     },
     {
       "identifier": "GENSEC_2627_179",
@@ -1044,7 +1143,7 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "GENSEC_2627_179 — 707 – Dibuix artístic i color",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_179_EA_Llotja_707_2.pdf",
-      "document_status": "nou"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "GENPRI_2627_065",
@@ -1057,19 +1156,6 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
-      "document_status": "nou"
-    },
-    {
-      "identifier": "GENSEC_2627_186",
-      "specialty": "SCS",
-      "institution": "CFA Les Corts",
-      "municipality": "Barcelona",
-      "vacancies": 1.0,
-      "deadline": "fins al 19/10/2026 a les 08.00 h",
-      "region": "Barcelona — Consorci d’Educació",
-      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "document_title": "GENSEC_2627_186 — SCS - Àmbit social amb COMPETIC",
-      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_186_CFA_LES_CORTS_SCS.pdf",
       "document_status": "sense canvis"
     },
     {
@@ -1169,44 +1255,109 @@
   "changes": {
     "added": [
       {
-        "identifier": "GENSEC_2627_179",
-        "specialty": "707",
-        "institution": "EA Llotja",
+        "identifier": "MUNSEC_2627_054",
+        "specialty": "FMG",
+        "institution": "Institut Lluïsa Cura",
         "municipality": "Barcelona",
         "vacancies": 1.0,
-        "deadline": "fins al 21/10/2026 a les 12.00 h",
+        "deadline": "fins al 22/10/2026 a les 10.00 h",
         "region": "Barcelona — Consorci d’Educació",
         "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_179 — 707 – Dibuix artístic i color",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_179_EA_Llotja_707_2.pdf",
+        "document_title": "MUNSEC_2627_054 — FMG - Mòduls generals PFI (PSI, 505, LC, LE, MA)",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_054_Ins_Lluisa_Cura_PFI_505.pdf",
         "document_status": "nou"
       },
       {
-        "identifier": "GENPRI_2627_065",
-        "specialty": "EES",
-        "institution": "CEE Lèxia",
+        "identifier": "GENSEC_2627_187",
+        "specialty": "507",
+        "institution": "Institut Poblenou",
         "municipality": "Barcelona",
         "vacancies": 1.0,
-        "deadline": "obert fins a cobrir substitucions vigents",
+        "deadline": "fins al 22/10/2026 a les 11.00 h",
         "region": "Barcelona — Consorci d’Educació",
         "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
+        "document_title": "GENSEC_2627_187 — 507 – Informàtica",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_187_Ins_Poblenou_507.pdf",
+        "document_status": "nou"
+      },
+      {
+        "identifier": "MUNSEC_2627_056",
+        "specialty": "Matemàtiques",
+        "institution": "Institut Anna Gironella de Mundet",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins al 23/10/2026 a les 08.00 h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "MUNSEC_2627_056 — Matemàtiques",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_56_MUNDET_MA.pdf",
+        "document_status": "nou"
+      },
+      {
+        "identifier": "MUNSEC_2627_055",
+        "specialty": "Matemàtiques",
+        "institution": "Institut Anna Gironella de Mundet",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins al 23/10/2026 a les 08.00 h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "MUNSEC_2627_055 — Matemàtiques",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_55_MUNDET_MA.pdf",
+        "document_status": "nou"
+      },
+      {
+        "identifier": "GENPRI_2627_067",
+        "specialty": "PRIMÀRIA",
+        "institution": "CREDV ONCE BARCELONA",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins al 22/10/2026 a les 12.00 h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "GENPRI_2627_067 — PRIMÀRIA",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_67_CREDV_ONCE_PRI.pdf",
+        "document_status": "nou"
+      },
+      {
+        "identifier": "MUNSEC_2627_053",
+        "specialty": "SCO",
+        "institution": "CFA Francesc Layret",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins al dijous 22/10/2026 a les 12.00 h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "MUNSEC_2627_053 — SCO – LE (Àmbit de la Comunicació)",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_53_CFA_FRANCESC_LAYRET_SCO_LE.pdf",
         "document_status": "nou"
       }
     ],
     "removed": [
       {
-        "identifier": "GENPRI_2627_041",
-        "specialty": "PMU",
-        "institution": "CEE Lèxia",
+        "identifier": "Especialitat:",
+        "specialty": "NOM",
+        "institution": null,
+        "municipality": null,
+        "vacancies": 1.0,
+        "deadline": null,
+        "region": "Terres de l’Ebre",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants o substitucions",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "document_status": "sense canvis"
+      },
+      {
+        "identifier": "GENSEC_2627_186",
+        "specialty": "SCS",
+        "institution": "CFA Les Corts",
         "municipality": "Barcelona",
         "vacancies": 1.0,
-        "deadline": "fins a cobrir vacant",
+        "deadline": "fins al 19/10/2026 a les 08.00 h",
         "region": "Barcelona — Consorci d’Educació",
         "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENPRI_2627_041 — PMU",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_41_CEE_LEXIA_PMU.pdf",
+        "document_title": "GENSEC_2627_186 — SCS - Àmbit social amb COMPETIC",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_186_CFA_LES_CORTS_SCS.pdf",
         "document_status": "sense canvis"
       }
     ],
@@ -1221,7 +1372,7 @@
           {
             "title": "Oferta de vacants.",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "sense canvis"
+            "status": "actualitzat"
           },
           {
             "title": "Vacants i substitucions de professorat especialista",
@@ -1264,7 +1415,7 @@
           {
             "title": "Oferta de vacants o substitucions",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "sense canvis"
+            "status": "actualitzat"
           }
         ]
       },
@@ -1273,18 +1424,43 @@
         "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
         "documents": [
           {
+            "title": "MUNSEC_2627_056 — Matemàtiques",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_56_MUNDET_MA.pdf",
+            "status": "nou"
+          },
+          {
+            "title": "MUNSEC_2627_055 — Matemàtiques",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_55_MUNDET_MA.pdf",
+            "status": "nou"
+          },
+          {
+            "title": "GENPRI_2627_067 — PRIMÀRIA",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_67_CREDV_ONCE_PRI.pdf",
+            "status": "nou"
+          },
+          {
+            "title": "GENSEC_2627_187 — 507 – Informàtica",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_187_Ins_Poblenou_507.pdf",
+            "status": "nou"
+          },
+          {
+            "title": "MUNSEC_2627_053 — SCO – LE (Àmbit de la Comunicació)",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_53_CFA_FRANCESC_LAYRET_SCO_LE.pdf",
+            "status": "nou"
+          },
+          {
+            "title": "MUNSEC_2627_054 — FMG - Mòduls generals PFI (PSI, 505, LC, LE, MA)",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_054_Ins_Lluisa_Cura_PFI_505.pdf",
+            "status": "nou"
+          },
+          {
             "title": "GENSEC_2627_179 — 707 – Dibuix artístic i color",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_179_EA_Llotja_707_2.pdf",
-            "status": "nou"
+            "status": "sense canvis"
           },
           {
             "title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
-            "status": "nou"
-          },
-          {
-            "title": "GENSEC_2627_186 — SCS - Àmbit social amb COMPETIC",
-            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_186_CFA_LES_CORTS_SCS.pdf",
             "status": "sense canvis"
           },
           {
