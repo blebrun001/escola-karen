@@ -1,21 +1,13 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-10-22T17:56:15.037330+00:00",
+  "attempted_at": "2026-10-23T17:50:38.266428+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/39826954251",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/39998339838",
   "errors": [
     {
       "region": "Barcelonès",
       "message": "No s’ha detectat cap PDF d’ofertes a la pàgina."
-    },
-    {
-      "region": "Tarragona",
-      "message": "No s’ha pogut analitzar el format del PDF."
-    },
-    {
-      "region": "Terres de l’Ebre",
-      "message": "No s’ha pogut analitzar el format del PDF."
     }
   ]
 }
