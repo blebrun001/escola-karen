@@ -1,0 +1,1035 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-24T16:32:17.033607+00:00",
+  "status": "partial",
+  "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/40111992216",
+  "targets": [
+    "CLA",
+    "GE"
+  ],
+  "summary": {
+    "offers_count": 56,
+    "vacancies_total": 1.0,
+    "active_regions": 3,
+    "documents": {
+      "new": 0,
+      "updated": 0,
+      "unchanged": 5,
+      "error": 0,
+      "removed": 0
+    },
+    "top_specialties": [
+      {
+        "code": "No especificada",
+        "count": 22
+      },
+      {
+        "code": "MA",
+        "count": 10
+      },
+      {
+        "code": "511",
+        "count": 4
+      }
+    ],
+    "interesting_count": 1,
+    "interesting_by_specialty": {
+      "CLA": 1
+    }
+  },
+  "regions": [
+    {
+      "name": "Tarragona",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 0,
+      "vacancies_total": null,
+      "top_specialties": [],
+      "specialties": {},
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [
+        {
+          "title": "Oferta de vacants.",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "status": "sense canvis",
+          "note": "El PDF publicat és un formulari buit: actualment no hi consta cap oferta.",
+          "warning": ""
+        },
+        {
+          "title": "Vacants i substitucions de professorat especialista",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-pe.pdf",
+          "status": "sense canvis",
+          "note": "El PDF publicat és un formulari buit: actualment no hi consta cap oferta.",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Penedès",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 11,
+      "vacancies_total": null,
+      "top_specialties": [
+        {
+          "code": "MA",
+          "count": 3
+        },
+        {
+          "code": "606",
+          "count": 2
+        },
+        {
+          "code": "611",
+          "count": 1
+        }
+      ],
+      "specialties": {
+        "MA": 3,
+        "606": 2,
+        "611": 1,
+        "CLA": 1,
+        "511": 1,
+        "604": 1,
+        "AED": 1,
+        "608": 1
+      },
+      "interesting_count": 1,
+      "interesting_by_specialty": {
+        "CLA": 1
+      },
+      "documents": [
+        {
+          "title": "Oferta de vacants o substitucions",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Baix Llobregat",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 44,
+      "vacancies_total": null,
+      "top_specialties": [
+        {
+          "code": "No especificada",
+          "count": 22
+        },
+        {
+          "code": "MA",
+          "count": 7
+        },
+        {
+          "code": "511",
+          "count": 3
+        }
+      ],
+      "specialties": {
+        "No especificada": 22,
+        "MA": 7,
+        "511": 3,
+        "525": 2,
+        "SCO": 2,
+        "506": 1,
+        "507": 1,
+        "522": 1,
+        "611": 1,
+        "627": 1,
+        "ECO": 1,
+        "FQ": 1,
+        "TEC": 1
+      },
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [
+        {
+          "title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Barcelonès",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 0,
+      "vacancies_total": null,
+      "top_specialties": [],
+      "specialties": {},
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [],
+      "warnings": [
+        "No s’ha detectat cap PDF d’ofertes a la pàgina."
+      ],
+      "error": "No s’ha detectat cap PDF d’ofertes a la pàgina."
+    },
+    {
+      "name": "Terres de l’Ebre",
+      "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "offers_count": 1,
+      "vacancies_total": 1.0,
+      "top_specialties": [
+        {
+          "code": "NOM",
+          "count": 1
+        }
+      ],
+      "specialties": {
+        "NOM": 1
+      },
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [
+        {
+          "title": "Oferta de vacants o substitucions",
+          "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+          "status": "sense canvis",
+          "note": "",
+          "warning": ""
+        }
+      ],
+      "warnings": [],
+      "error": ""
+    },
+    {
+      "name": "Barcelona — Consorci d’Educació",
+      "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "offers_count": 0,
+      "vacancies_total": null,
+      "top_specialties": [],
+      "specialties": {},
+      "interesting_count": 0,
+      "interesting_by_specialty": {},
+      "documents": [],
+      "warnings": [
+        "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      ],
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    }
+  ],
+  "offers": [
+    {
+      "identifier": "19784752",
+      "specialty": "611",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19784750",
+      "specialty": "CLA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19764612",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19792260",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19759756",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19701788",
+      "specialty": "511",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19636788",
+      "specialty": "604",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19762779",
+      "specialty": "606",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19777761",
+      "specialty": "606",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19792298",
+      "specialty": "AED",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19777759",
+      "specialty": "608",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19790822",
+      "specialty": "506",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "1",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19711802",
+      "specialty": "507",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "2",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19628494",
+      "specialty": "511",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "3",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19647843",
+      "specialty": "511",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "4",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19746343",
+      "specialty": "511",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "5",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19795310",
+      "specialty": "522",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "6",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19663307",
+      "specialty": "525",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "7",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19669830",
+      "specialty": "525",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "8",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19790854",
+      "specialty": "611",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "9",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19793301",
+      "specialty": "627",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "10",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19790819",
+      "specialty": "ECO",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "11",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19795309",
+      "specialty": "FQ",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "12",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19764517",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "13",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19790813",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "14",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19790811",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "15",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19710610",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "16",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19764449",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "17",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19764644",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "18",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19764597",
+      "specialty": "MA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19787315",
+      "specialty": "SCO",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "20",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19790824",
+      "specialty": "SCO",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "21",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "19790769",
+      "specialty": "TEC",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "22",
+      "specialty": "No especificada",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": "26/10/2026",
+      "region": "Baix Llobregat",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    },
+    {
+      "identifier": "Especialitat:",
+      "specialty": "NOM",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    }
+  ],
+  "interesting_offers": [
+    {
+      "identifier": "19784750",
+      "specialty": "CLA",
+      "institution": null,
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Penedès",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "sense canvis"
+    }
+  ],
+  "changes": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  },
+  "collection": {
+    "regions": [
+      {
+        "name": "Tarragona",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de vacants.",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+            "status": "sense canvis"
+          },
+          {
+            "title": "Vacants i substitucions de professorat especialista",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-pe.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Penedès",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de vacants o substitucions",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Baix Llobregat",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de vacants i substitucions - Places Secundària - Difícil Cobertura",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Barcelonès",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": []
+      },
+      {
+        "name": "Terres de l’Ebre",
+        "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "documents": [
+          {
+            "title": "Oferta de vacants o substitucions",
+            "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+            "status": "sense canvis"
+          }
+        ]
+      },
+      {
+        "name": "Barcelona — Consorci d’Educació",
+        "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "documents": []
+      }
+    ]
+  }
+}
