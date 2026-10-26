@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T17:36:39.339807+00:00",
+  "generated_at": "2026-10-26T19:52:21.303740+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/40217274217",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/40390466016",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 64,
-    "vacancies_total": 9.0,
+    "offers_count": 66,
+    "vacancies_total": 11.0,
     "active_regions": 4,
     "documents": {
-      "new": 0,
-      "updated": 0,
-      "unchanged": 13,
+      "new": 2,
+      "updated": 1,
+      "unchanged": 12,
       "error": 0,
       "removed": 0
     },
@@ -52,9 +52,9 @@
         {
           "title": "Oferta de vacants.",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "sense canvis",
-          "note": "El PDF publicat és un formulari buit: actualment no hi consta cap oferta.",
-          "warning": ""
+          "status": "actualitzat",
+          "note": "",
+          "warning": "No s’ha pogut analitzar el format del PDF."
         },
         {
           "title": "Vacants i substitucions de professorat especialista",
@@ -64,7 +64,9 @@
           "warning": ""
         }
       ],
-      "warnings": [],
+      "warnings": [
+        "No s’ha pogut analitzar el format del PDF."
+      ],
       "error": ""
     },
     {
@@ -206,24 +208,26 @@
     {
       "name": "Barcelona — Consorci d’Educació",
       "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "offers_count": 8,
-      "vacancies_total": 8.0,
+      "offers_count": 10,
+      "vacancies_total": 10.0,
       "top_specialties": [
         {
           "code": "Programa d’Atenció Educativa Domiciliària",
           "count": 3
         },
         {
-          "code": "Sistemes electrotècnics i automàtics_525",
+          "code": "Primària (PRI)",
           "count": 1
         },
         {
-          "code": "EES",
+          "code": "PFI",
           "count": 1
         }
       ],
       "specialties": {
         "Programa d’Atenció Educativa Domiciliària": 3,
+        "Primària (PRI)": 1,
+        "PFI": 1,
         "Sistemes electrotècnics i automàtics_525": 1,
         "EES": 1,
         "PRI": 1,
@@ -233,6 +237,20 @@
       "interesting_count": 0,
       "interesting_by_specialty": {},
       "documents": [
+        {
+          "title": "GENPRI_2627_069 — Primària (PRI)",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_69_PRI.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENSEC_2627_188 — PFI - FMG mòduls generals",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_188_PFI_FMG.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
         {
           "title": "GENSEC_2627_189 — Sistemes electrotècnics i automàtics_525",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_189__IE_Escola_del_Treball__Sistemes_electrotecnics_i_automatics_525.pdf",
@@ -1024,6 +1042,32 @@
       "document_status": "sense canvis"
     },
     {
+      "identifier": "GENPRI_2627_069",
+      "specialty": "Primària (PRI)",
+      "institution": "C.E. Can Llupià",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 27/10/2026 a les 08.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENPRI_2627_069 — Primària (PRI)",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_69_PRI.pdf",
+      "document_status": "nou"
+    },
+    {
+      "identifier": "GENSEC_2627_188",
+      "specialty": "PFI",
+      "institution": "Institut FP Sanitària Vall Hebron",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 28/10/2026 a les 09.30 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_188 — PFI - FMG mòduls generals",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_188_PFI_FMG.pdf",
+      "document_status": "nou"
+    },
+    {
       "identifier": "GENSEC_2627_189",
       "specialty": "Sistemes electrotècnics i automàtics_525",
       "institution": "Institut Escola del Treball",
@@ -1146,108 +1190,30 @@
   "changes": {
     "added": [
       {
-        "identifier": "GENSEC_2627_169",
-        "specialty": "Programa d’Atenció Educativa Domiciliària",
-        "institution": null,
+        "identifier": "GENPRI_2627_069",
+        "specialty": "Primària (PRI)",
+        "institution": "C.E. Can Llupià",
         "municipality": "Barcelona",
         "vacancies": 1.0,
-        "deadline": "aquesta difícil cobertura queda anul·lada degut a noves instruccions de cobertura de les Atencions Educatives Domiciliàries, rebudes des del Departament d'Educació i Formació Professional.",
+        "deadline": "fins al 27/10/2026 a les 08.00 h",
         "region": "Barcelona — Consorci d’Educació",
         "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_169 — Programa d’Atenció Educativa Domiciliària",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_169_AED_CentreEducatiuAssis.pdf",
-        "document_status": "sense canvis"
+        "document_title": "GENPRI_2627_069 — Primària (PRI)",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_69_PRI.pdf",
+        "document_status": "nou"
       },
       {
-        "identifier": "GENSEC_2627_167",
-        "specialty": "Programa d’Atenció Educativa Domiciliària",
-        "institution": null,
+        "identifier": "GENSEC_2627_188",
+        "specialty": "PFI",
+        "institution": "Institut FP Sanitària Vall Hebron",
         "municipality": "Barcelona",
         "vacancies": 1.0,
-        "deadline": "aquesta difícil cobertura queda anul·lada degut a noves instruccions de cobertura de les Atencions Educatives Domiciliàries, rebudes des del Departament d'Educació i Formació Professional.",
+        "deadline": "fins al 28/10/2026 a les 09.30 h",
         "region": "Barcelona — Consorci d’Educació",
         "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_167 — Programa d’Atenció Educativa Domiciliària",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_167_AED_I_BarcelonaCongres.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "GENPRI_2627_065",
-        "specialty": "EES",
-        "institution": "CEE Lèxia",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "obert fins a cobrir substitucions vigents",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENPRI_2627_065 — EES – Pedagogia terapèutica",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "GENSEC_2627_189",
-        "specialty": "Sistemes electrotècnics i automàtics_525",
-        "institution": "Institut Escola del Treball",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "fins al 27/10/2026 a les 14.00 h",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_189 — Sistemes electrotècnics i automàtics_525",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_189__IE_Escola_del_Treball__Sistemes_electrotecnics_i_automatics_525.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "MUNPRI_2627_001",
-        "specialty": "PRIMÀRIA + LSC (Llengua de Signes)",
-        "institution": "Escola Municipal Tres Pins",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "tancat per manca de candidats",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "MUNPRI_2627_001 — PRIMÀRIA + LSC (Llengua de Signes)",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_1_Escola_Tres_Pins_PRI_LSC.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "GENPRI_2627_049",
-        "specialty": "PRI",
-        "institution": "CREDV-CRE ONCE BARCELONA",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "fins el dia 2 de setembre a les 9 h.",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENPRI_2627_049 — PRI",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_49.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "GENSEC_2627_015",
-        "specialty": "460",
-        "institution": "IEA ORIOL MARTORELL",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "fins a cobrir vacant",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_015 — 460 - Pianista repertorista per a dansa",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_015_OriolMartorell_460.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "GENSEC_2627_168",
-        "specialty": "Programa d’Atenció Educativa Domiciliària",
-        "institution": null,
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "aquesta difícil cobertura queda anul·lada degut a noves instruccions de cobertura de les Atencions Educatives Domiciliàries, rebudes des del Departament d'Educació i Formació Professional.",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_168 — Programa d’Atenció Educativa Domiciliària",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_168_AED_DiversosCentres.pdf",
-        "document_status": "sense canvis"
+        "document_title": "GENSEC_2627_188 — PFI - FMG mòduls generals",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_188_PFI_FMG.pdf",
+        "document_status": "nou"
       }
     ],
     "removed": [],
@@ -1262,7 +1228,7 @@
           {
             "title": "Oferta de vacants.",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "sense canvis"
+            "status": "actualitzat"
           },
           {
             "title": "Vacants i substitucions de professorat especialista",
@@ -1313,6 +1279,16 @@
         "name": "Barcelona — Consorci d’Educació",
         "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
         "documents": [
+          {
+            "title": "GENPRI_2627_069 — Primària (PRI)",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_69_PRI.pdf",
+            "status": "nou"
+          },
+          {
+            "title": "GENSEC_2627_188 — PFI - FMG mòduls generals",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_188_PFI_FMG.pdf",
+            "status": "nou"
+          },
           {
             "title": "GENSEC_2627_189 — Sistemes electrotècnics i automàtics_525",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_189__IE_Escola_del_Treball__Sistemes_electrotecnics_i_automatics_525.pdf",
