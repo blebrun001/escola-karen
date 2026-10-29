@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T19:28:32.198479+00:00",
+  "generated_at": "2026-10-29T19:33:04.569492+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/40754579766",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/40941057223",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 67,
-    "vacancies_total": 10.0,
-    "active_regions": 4,
+    "offers_count": 68,
+    "vacancies_total": 9.0,
+    "active_regions": 5,
     "documents": {
-      "new": 1,
-      "updated": 2,
-      "unchanged": 11,
+      "new": 0,
+      "updated": 1,
+      "unchanged": 12,
       "error": 0,
-      "removed": 2
+      "removed": 1
     },
     "top_specialties": [
       {
@@ -42,30 +42,41 @@
     {
       "name": "Tarragona",
       "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "offers_count": 0,
+      "offers_count": 2,
       "vacancies_total": null,
-      "top_specialties": [],
-      "specialties": {},
+      "top_specialties": [
+        {
+          "code": "192",
+          "count": 1
+        },
+        {
+          "code": "512",
+          "count": 1
+        }
+      ],
+      "specialties": {
+        "192": 1,
+        "512": 1
+      },
       "interesting_count": 0,
       "interesting_by_specialty": {},
       "documents": [
         {
           "title": "Oferta de vacants.",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "sense canvis",
+          "status": "actualitzat",
           "note": "",
-          "warning": "No s’ha pogut analitzar el format del PDF."
+          "warning": ""
         },
         {
           "title": "Vacants i substitucions de professorat especialista",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-pe.pdf",
-          "status": "actualitzat",
+          "status": "sense canvis",
           "note": "",
           "warning": "No s’ha pogut analitzar el format del PDF."
         }
       ],
       "warnings": [
-        "No s’ha pogut analitzar el format del PDF.",
         "No s’ha pogut analitzar el format del PDF."
       ],
       "error": ""
@@ -110,7 +121,7 @@
         {
           "title": "Oferta de vacants o substitucions",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "actualitzat",
+          "status": "sense canvis",
           "note": "",
           "warning": ""
         }
@@ -212,8 +223,8 @@
     {
       "name": "Barcelona — Consorci d’Educació",
       "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "offers_count": 9,
-      "vacancies_total": 9.0,
+      "offers_count": 8,
+      "vacancies_total": 8.0,
       "top_specialties": [
         {
           "code": "Programa d’Atenció Educativa Domiciliària",
@@ -224,14 +235,13 @@
           "count": 1
         },
         {
-          "code": "PFI",
+          "code": "EES",
           "count": 1
         }
       ],
       "specialties": {
         "Programa d’Atenció Educativa Domiciliària": 3,
         "725": 1,
-        "PFI": 1,
         "EES": 1,
         "PRI": 1,
         "460": 1,
@@ -243,13 +253,6 @@
         {
           "title": "GENSEC_2627_190 — 725 - Volum",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_190_ESCRBC_725_VOLUM.pdf",
-          "status": "nou",
-          "note": "",
-          "warning": ""
-        },
-        {
-          "title": "GENSEC_2627_188 — PFI - FMG mòduls generals",
-          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_188_PFI_FMG.pdf",
           "status": "sense canvis",
           "note": "",
           "warning": ""
@@ -310,6 +313,32 @@
   ],
   "offers": [
     {
+      "identifier": "116-43006940",
+      "specialty": "192",
+      "institution": "116-43006940 Nom del centre EOI - de Tarragona Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions erveis Territorials a Tarragona Oferta de vacants o substitucions Dades de la plaça",
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "actualitzat"
+    },
+    {
+      "identifier": "117-43006630",
+      "specialty": "512",
+      "institution": "117-43006630 Nom del centre Institut Pere Martell Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions",
+      "municipality": null,
+      "vacancies": null,
+      "deadline": null,
+      "region": "Tarragona",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants.",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "actualitzat"
+    },
+    {
       "identifier": "19792270",
       "specialty": "LC",
       "institution": null,
@@ -320,7 +349,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19777761",
@@ -333,7 +362,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19777759",
@@ -346,7 +375,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19701788",
@@ -359,7 +388,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19762779",
@@ -372,7 +401,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19784752",
@@ -385,7 +414,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19795292",
@@ -398,7 +427,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19805254",
@@ -411,7 +440,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19784750",
@@ -424,7 +453,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19806796",
@@ -437,7 +466,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19636788",
@@ -450,7 +479,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19764512",
@@ -463,7 +492,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19793264",
@@ -476,7 +505,7 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "19790822",
@@ -1074,19 +1103,6 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "GENSEC_2627_190 — 725 - Volum",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_190_ESCRBC_725_VOLUM.pdf",
-      "document_status": "nou"
-    },
-    {
-      "identifier": "GENSEC_2627_188",
-      "specialty": "PFI",
-      "institution": "Institut FP Sanitària Vall Hebron",
-      "municipality": "Barcelona",
-      "vacancies": 1.0,
-      "deadline": "fins al 28/10/2026 a les 09.30 h",
-      "region": "Barcelona — Consorci d’Educació",
-      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "document_title": "GENSEC_2627_188 — PFI - FMG mòduls generals",
-      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_188_PFI_FMG.pdf",
       "document_status": "sense canvis"
     },
     {
@@ -1193,180 +1209,50 @@
       "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
       "document_title": "Oferta de vacants o substitucions",
       "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "actualitzat"
+      "document_status": "sense canvis"
     }
   ],
   "changes": {
     "added": [
       {
-        "identifier": "19764512",
-        "specialty": "TEC",
-        "institution": null,
+        "identifier": "117-43006630",
+        "specialty": "512",
+        "institution": "117-43006630 Nom del centre Institut Pere Martell Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions",
         "municipality": null,
         "vacancies": null,
         "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "region": "Tarragona",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants.",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
         "document_status": "actualitzat"
       },
       {
-        "identifier": "19792270",
-        "specialty": "LC",
-        "institution": null,
+        "identifier": "116-43006940",
+        "specialty": "192",
+        "institution": "116-43006940 Nom del centre EOI - de Tarragona Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions erveis Territorials a Tarragona Oferta de vacants o substitucions Dades de la plaça",
         "municipality": null,
         "vacancies": null,
         "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "actualitzat"
-      },
-      {
-        "identifier": "19795292",
-        "specialty": "TEC",
-        "institution": null,
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "actualitzat"
-      },
-      {
-        "identifier": "19793264",
-        "specialty": "609",
-        "institution": null,
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "actualitzat"
-      },
-      {
-        "identifier": "19806796",
-        "specialty": "507",
-        "institution": null,
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "actualitzat"
-      },
-      {
-        "identifier": "GENSEC_2627_190",
-        "specialty": "725",
-        "institution": "ESCRBC de Catalunya",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "fins al 30/10/2026 a les 12.00 h",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_190 — 725 - Volum",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_190_ESCRBC_725_VOLUM.pdf",
-        "document_status": "nou"
-      },
-      {
-        "identifier": "19805254",
-        "specialty": "FQ",
-        "institution": null,
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "region": "Tarragona",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants.",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
         "document_status": "actualitzat"
       }
     ],
     "removed": [
       {
-        "identifier": "GENPRI_2627_069",
-        "specialty": "Primària (PRI)",
-        "institution": "C.E. Can Llupià",
+        "identifier": "GENSEC_2627_188",
+        "specialty": "PFI",
+        "institution": "Institut FP Sanitària Vall Hebron",
         "municipality": "Barcelona",
         "vacancies": 1.0,
-        "deadline": "fins al 27/10/2026 a les 08.00 h",
+        "deadline": "fins al 28/10/2026 a les 09.30 h",
         "region": "Barcelona — Consorci d’Educació",
         "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENPRI_2627_069 — Primària (PRI)",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_69_PRI.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "19759756",
-        "specialty": "MA",
-        "institution": null,
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "19792298",
-        "specialty": "AED",
-        "institution": null,
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "19792260",
-        "specialty": "MA",
-        "institution": null,
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "19764612",
-        "specialty": "MA",
-        "institution": null,
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Penedès",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants o substitucions",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
-      },
-      {
-        "identifier": "GENSEC_2627_189",
-        "specialty": "Sistemes electrotècnics i automàtics_525",
-        "institution": "Institut Escola del Treball",
-        "municipality": "Barcelona",
-        "vacancies": 1.0,
-        "deadline": "fins al 27/10/2026 a les 14.00 h",
-        "region": "Barcelona — Consorci d’Educació",
-        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_189 — Sistemes electrotècnics i automàtics_525",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_189__IE_Escola_del_Treball__Sistemes_electrotecnics_i_automatics_525.pdf",
+        "document_title": "GENSEC_2627_188 — PFI - FMG mòduls generals",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_188_PFI_FMG.pdf",
         "document_status": "sense canvis"
       }
     ],
@@ -1381,12 +1267,12 @@
           {
             "title": "Oferta de vacants.",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "sense canvis"
+            "status": "actualitzat"
           },
           {
             "title": "Vacants i substitucions de professorat especialista",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-pe.pdf",
-            "status": "actualitzat"
+            "status": "sense canvis"
           }
         ]
       },
@@ -1397,7 +1283,7 @@
           {
             "title": "Oferta de vacants o substitucions",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "actualitzat"
+            "status": "sense canvis"
           }
         ]
       },
@@ -1435,11 +1321,6 @@
           {
             "title": "GENSEC_2627_190 — 725 - Volum",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_190_ESCRBC_725_VOLUM.pdf",
-            "status": "nou"
-          },
-          {
-            "title": "GENSEC_2627_188 — PFI - FMG mòduls generals",
-            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_188_PFI_FMG.pdf",
             "status": "sense canvis"
           },
           {
