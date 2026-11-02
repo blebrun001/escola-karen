@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T18:52:23.457052+00:00",
+  "generated_at": "2026-11-02T22:43:53.478931+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/41338802650",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/41539671450",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 34,
+    "offers_count": 32,
     "vacancies_total": 11.0,
-    "active_regions": 5,
+    "active_regions": 4,
     "documents": {
       "new": 0,
-      "updated": 0,
-      "unchanged": 15,
+      "updated": 1,
+      "unchanged": 14,
       "error": 0,
       "removed": 0
     },
@@ -42,31 +42,19 @@
     {
       "name": "Tarragona",
       "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "offers_count": 2,
+      "offers_count": 0,
       "vacancies_total": null,
-      "top_specialties": [
-        {
-          "code": "192",
-          "count": 1
-        },
-        {
-          "code": "512",
-          "count": 1
-        }
-      ],
-      "specialties": {
-        "192": 1,
-        "512": 1
-      },
+      "top_specialties": [],
+      "specialties": {},
       "interesting_count": 0,
       "interesting_by_specialty": {},
       "documents": [
         {
           "title": "Oferta de vacants.",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "sense canvis",
+          "status": "actualitzat",
           "note": "",
-          "warning": ""
+          "warning": "No s’ha pogut analitzar el format del PDF."
         },
         {
           "title": "Vacants i substitucions de professorat especialista",
@@ -77,6 +65,7 @@
         }
       ],
       "warnings": [
+        "No s’ha pogut analitzar el format del PDF.",
         "No s’ha pogut analitzar el format del PDF."
       ],
       "error": ""
@@ -320,32 +309,6 @@
     }
   ],
   "offers": [
-    {
-      "identifier": "116-43006940",
-      "specialty": "192",
-      "institution": "116-43006940 Nom del centre EOI - de Tarragona Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions erveis Territorials a Tarragona Oferta de vacants o substitucions Dades de la plaça",
-      "municipality": null,
-      "vacancies": null,
-      "deadline": null,
-      "region": "Tarragona",
-      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "document_title": "Oferta de vacants.",
-      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "sense canvis"
-    },
-    {
-      "identifier": "117-43006630",
-      "specialty": "512",
-      "institution": "117-43006630 Nom del centre Institut Pere Martell Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions",
-      "municipality": null,
-      "vacancies": null,
-      "deadline": null,
-      "region": "Tarragona",
-      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "document_title": "Oferta de vacants.",
-      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-      "document_status": "sense canvis"
-    },
     {
       "identifier": "19792270",
       "specialty": "LC",
@@ -780,7 +743,34 @@
   ],
   "changes": {
     "added": [],
-    "removed": [],
+    "removed": [
+      {
+        "identifier": "116-43006940",
+        "specialty": "192",
+        "institution": "116-43006940 Nom del centre EOI - de Tarragona Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions erveis Territorials a Tarragona Oferta de vacants o substitucions Dades de la plaça",
+        "municipality": null,
+        "vacancies": null,
+        "deadline": null,
+        "region": "Tarragona",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants.",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "document_status": "sense canvis"
+      },
+      {
+        "identifier": "117-43006630",
+        "specialty": "512",
+        "institution": "117-43006630 Nom del centre Institut Pere Martell Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions",
+        "municipality": null,
+        "vacancies": null,
+        "deadline": null,
+        "region": "Tarragona",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants.",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "document_status": "sense canvis"
+      }
+    ],
     "updated": []
   },
   "collection": {
@@ -792,7 +782,7 @@
           {
             "title": "Oferta de vacants.",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "sense canvis"
+            "status": "actualitzat"
           },
           {
             "title": "Vacants i substitucions de professorat especialista",
