@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T22:43:53.478931+00:00",
+  "generated_at": "2026-11-03T20:28:31.611441+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/41539671450",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/41712844020",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 32,
-    "vacancies_total": 11.0,
+    "offers_count": 34,
+    "vacancies_total": 13.0,
     "active_regions": 4,
     "documents": {
-      "new": 0,
-      "updated": 1,
-      "unchanged": 14,
+      "new": 2,
+      "updated": 0,
+      "unchanged": 15,
       "error": 0,
       "removed": 0
     },
@@ -52,7 +52,7 @@
         {
           "title": "Oferta de vacants.",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "actualitzat",
+          "status": "sense canvis",
           "note": "",
           "warning": "No s’ha pogut analitzar el format del PDF."
         },
@@ -205,8 +205,8 @@
     {
       "name": "Barcelona — Consorci d’Educació",
       "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "offers_count": 10,
-      "vacancies_total": 10.0,
+      "offers_count": 12,
+      "vacancies_total": 12.0,
       "top_specialties": [
         {
           "code": "Programa d’Atenció Educativa Domiciliària",
@@ -217,13 +217,15 @@
           "count": 2
         },
         {
-          "code": "511",
+          "code": "503",
           "count": 1
         }
       ],
       "specialties": {
         "Programa d’Atenció Educativa Domiciliària": 3,
         "609": 2,
+        "503": 1,
+        "SCS": 1,
         "511": 1,
         "EES": 1,
         "PRI": 1,
@@ -233,6 +235,20 @@
       "interesting_count": 0,
       "interesting_by_specialty": {},
       "documents": [
+        {
+          "title": "GENSEC_2627_195 — 503 – Assessoria i processos d’imatge personal",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/Convo_GENSEC_2627_195.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
+          "title": "GENSEC_2627_191 — SCS – Àmbit de les ciències socials",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/Convo_GENSEC_2627_191.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
         {
           "title": "GENSEC_2627_194 — 609 – Manteniment de vehicles",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_194_Inst_MareDeuMerce_609.pdf",
@@ -596,6 +612,32 @@
       "document_status": "sense canvis"
     },
     {
+      "identifier": "GENSEC_2627_195",
+      "specialty": "503",
+      "institution": "Institut Salvador Seguí",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins el 05/11/2026 a les 14.00h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_195 — 503 – Assessoria i processos d’imatge personal",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/Convo_GENSEC_2627_195.pdf",
+      "document_status": "nou"
+    },
+    {
+      "identifier": "GENSEC_2627_191",
+      "specialty": "SCS",
+      "institution": "CFA El Clot",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins el 05/11/2026 a les 14.00h.",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_191 — SCS – Àmbit de les ciències socials",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/Convo_GENSEC_2627_191.pdf",
+      "document_status": "nou"
+    },
+    {
       "identifier": "GENSEC_2627_194",
       "specialty": "609",
       "institution": "Institut Mare de Déu de la Mercè",
@@ -742,35 +784,35 @@
     }
   ],
   "changes": {
-    "added": [],
-    "removed": [
+    "added": [
       {
-        "identifier": "116-43006940",
-        "specialty": "192",
-        "institution": "116-43006940 Nom del centre EOI - de Tarragona Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions erveis Territorials a Tarragona Oferta de vacants o substitucions Dades de la plaça",
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Tarragona",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants.",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
+        "identifier": "GENSEC_2627_191",
+        "specialty": "SCS",
+        "institution": "CFA El Clot",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins el 05/11/2026 a les 14.00h.",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "GENSEC_2627_191 — SCS – Àmbit de les ciències socials",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/Convo_GENSEC_2627_191.pdf",
+        "document_status": "nou"
       },
       {
-        "identifier": "117-43006630",
-        "specialty": "512",
-        "institution": "117-43006630 Nom del centre Institut Pere Martell Municipi Tarragona Jornada Sencera Requisits Mèrits Entrevista Prova de ☐ Sí ☐ No ☐ Sí ☐ N Observacions",
-        "municipality": null,
-        "vacancies": null,
-        "deadline": null,
-        "region": "Tarragona",
-        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-        "document_title": "Oferta de vacants.",
-        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-        "document_status": "sense canvis"
+        "identifier": "GENSEC_2627_195",
+        "specialty": "503",
+        "institution": "Institut Salvador Seguí",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins el 05/11/2026 a les 14.00h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "GENSEC_2627_195 — 503 – Assessoria i processos d’imatge personal",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/Convo_GENSEC_2627_195.pdf",
+        "document_status": "nou"
       }
     ],
+    "removed": [],
     "updated": []
   },
   "collection": {
@@ -782,7 +824,7 @@
           {
             "title": "Oferta de vacants.",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "actualitzat"
+            "status": "sense canvis"
           },
           {
             "title": "Vacants i substitucions de professorat especialista",
@@ -833,6 +875,16 @@
         "name": "Barcelona — Consorci d’Educació",
         "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
         "documents": [
+          {
+            "title": "GENSEC_2627_195 — 503 – Assessoria i processos d’imatge personal",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/Convo_GENSEC_2627_195.pdf",
+            "status": "nou"
+          },
+          {
+            "title": "GENSEC_2627_191 — SCS – Àmbit de les ciències socials",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/Convo_GENSEC_2627_191.pdf",
+            "status": "nou"
+          },
           {
             "title": "GENSEC_2627_194 — 609 – Manteniment de vehicles",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_194_Inst_MareDeuMerce_609.pdf",
