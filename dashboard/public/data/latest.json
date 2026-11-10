@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T23:23:35.305021+00:00",
+  "generated_at": "2026-11-10T20:46:08.853795+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/42720037306",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/42898462369",
   "targets": [
     "CLA",
     "GE"
@@ -11,13 +11,13 @@
   "summary": {
     "offers_count": 69,
     "vacancies_total": 12.0,
-    "active_regions": 3,
+    "active_regions": 4,
     "documents": {
       "new": 1,
       "updated": 1,
-      "unchanged": 15,
+      "unchanged": 14,
       "error": 0,
-      "removed": 0
+      "removed": 2
     },
     "top_specialties": [
       {
@@ -52,7 +52,7 @@
         {
           "title": "Oferta de vacants.",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "actualitzat",
+          "status": "sense canvis",
           "note": "",
           "warning": "No s’ha pogut analitzar el format del PDF."
         },
@@ -186,52 +186,56 @@
     {
       "name": "Terres de l’Ebre",
       "page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
-      "offers_count": 0,
-      "vacancies_total": null,
-      "top_specialties": [],
-      "specialties": {},
+      "offers_count": 1,
+      "vacancies_total": 1.0,
+      "top_specialties": [
+        {
+          "code": "NOM",
+          "count": 1
+        }
+      ],
+      "specialties": {
+        "NOM": 1
+      },
       "interesting_count": 0,
       "interesting_by_specialty": {},
       "documents": [
         {
           "title": "Oferta de vacants o substitucions",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "sense canvis",
+          "status": "actualitzat",
           "note": "",
-          "warning": "No s’ha pogut analitzar el format del PDF."
+          "warning": ""
         }
       ],
-      "warnings": [
-        "No s’ha pogut analitzar el format del PDF."
-      ],
+      "warnings": [],
       "error": ""
     },
     {
       "name": "Barcelona — Consorci d’Educació",
       "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "offers_count": 12,
-      "vacancies_total": 12.0,
+      "offers_count": 11,
+      "vacancies_total": 11.0,
       "top_specialties": [
         {
           "code": "Programa d’Atenció Educativa Domiciliària",
           "count": 3
         },
         {
-          "code": "815",
+          "code": "Emergències i Protecció Civil",
           "count": 1
         },
         {
-          "code": "DISSENY GRÀFIC (712)",
+          "code": "815",
           "count": 1
         }
       ],
       "specialties": {
         "Programa d’Atenció Educativa Domiciliària": 3,
+        "Emergències i Protecció Civil": 1,
         "815": 1,
         "DISSENY GRÀFIC (712)": 1,
         "Docent Primària Pedagogia Terapèutica": 1,
-        "PSI": 1,
-        "721": 1,
         "EES": 1,
         "PRI": 1,
         "460": 1,
@@ -241,9 +245,16 @@
       "interesting_by_specialty": {},
       "documents": [
         {
+          "title": "GENSEC_2627_198 — Emergències i Protecció Civil",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_198_ISMB_CoordEmergPC_33.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
+        {
           "title": "GENSEC_2627_197 — 815 - Tècniques de joieria",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_197_EA_Llotja_815.pdf",
-          "status": "nou",
+          "status": "sense canvis",
           "note": "",
           "warning": ""
         },
@@ -257,20 +268,6 @@
         {
           "title": "GENPRI_2627_070 — Docent Primària Pedagogia Terapèutica",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_70__AED.pdf",
-          "status": "sense canvis",
-          "note": "",
-          "warning": ""
-        },
-        {
-          "title": "MUNSEC_2627_057 — PSI – ORIENTACIÓ EDUCATIVA-PFI",
-          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_57_I.IDAGB_PSI_PFI.pdf",
-          "status": "sense canvis",
-          "note": "",
-          "warning": ""
-        },
-        {
-          "title": "MUNSEC_2627_058 — 721 – Mitjans audiovisuals",
-          "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_058_EA_La_Industrial_721.pdf",
           "status": "sense canvis",
           "note": "",
           "warning": ""
@@ -1072,6 +1069,32 @@
       "document_status": "sense canvis"
     },
     {
+      "identifier": "Especialitat:",
+      "specialty": "NOM",
+      "institution": null,
+      "municipality": null,
+      "vacancies": 1.0,
+      "deadline": null,
+      "region": "Terres de l’Ebre",
+      "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+      "document_title": "Oferta de vacants o substitucions",
+      "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+      "document_status": "actualitzat"
+    },
+    {
+      "identifier": "GENSEC_2627_198",
+      "specialty": "Emergències i Protecció Civil",
+      "institution": "Institut de Seguretat i Mobilitat de Barcelona Guineuta",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 12/11/2026 a les 12.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_198 — Emergències i Protecció Civil",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_198_ISMB_CoordEmergPC_33.pdf",
+      "document_status": "nou"
+    },
+    {
       "identifier": "GENSEC_2627_197",
       "specialty": "815",
       "institution": "EA Llotja",
@@ -1082,7 +1105,7 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "GENSEC_2627_197 — 815 - Tècniques de joieria",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_197_EA_Llotja_815.pdf",
-      "document_status": "nou"
+      "document_status": "sense canvis"
     },
     {
       "identifier": "MUNSEC_2627_059",
@@ -1108,32 +1131,6 @@
       "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
       "document_title": "GENPRI_2627_070 — Docent Primària Pedagogia Terapèutica",
       "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_70__AED.pdf",
-      "document_status": "sense canvis"
-    },
-    {
-      "identifier": "MUNSEC_2627_057",
-      "specialty": "PSI",
-      "institution": "Institut del Disseny i Arts Gràfiques de Barcelona",
-      "municipality": "Barcelona",
-      "vacancies": 1.0,
-      "deadline": "fins al 09/11/2026 a les 14.00 h",
-      "region": "Barcelona — Consorci d’Educació",
-      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "document_title": "MUNSEC_2627_057 — PSI – ORIENTACIÓ EDUCATIVA-PFI",
-      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_57_I.IDAGB_PSI_PFI.pdf",
-      "document_status": "sense canvis"
-    },
-    {
-      "identifier": "MUNSEC_2627_058",
-      "specialty": "721",
-      "institution": "EA La Industrial",
-      "municipality": "Barcelona",
-      "vacancies": 1.0,
-      "deadline": "fins al 09/11/2026 a les 14.00 h",
-      "region": "Barcelona — Consorci d’Educació",
-      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "document_title": "MUNSEC_2627_058 — 721 – Mitjans audiovisuals",
-      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_058_EA_La_Industrial_721.pdf",
       "document_status": "sense canvis"
     },
     {
@@ -1246,20 +1243,60 @@
   "changes": {
     "added": [
       {
-        "identifier": "GENSEC_2627_197",
-        "specialty": "815",
-        "institution": "EA Llotja",
+        "identifier": "GENSEC_2627_198",
+        "specialty": "Emergències i Protecció Civil",
+        "institution": "Institut de Seguretat i Mobilitat de Barcelona Guineuta",
         "municipality": "Barcelona",
         "vacancies": 1.0,
-        "deadline": "fins al 11/11/2026 a les 14.00 h",
+        "deadline": "fins al 12/11/2026 a les 12.00 h",
         "region": "Barcelona — Consorci d’Educació",
         "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-        "document_title": "GENSEC_2627_197 — 815 - Tècniques de joieria",
-        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_197_EA_Llotja_815.pdf",
+        "document_title": "GENSEC_2627_198 — Emergències i Protecció Civil",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_198_ISMB_CoordEmergPC_33.pdf",
         "document_status": "nou"
+      },
+      {
+        "identifier": "Especialitat:",
+        "specialty": "NOM",
+        "institution": null,
+        "municipality": null,
+        "vacancies": 1.0,
+        "deadline": null,
+        "region": "Terres de l’Ebre",
+        "region_page_url": "https://educacio.gencat.cat/ca/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/",
+        "document_title": "Oferta de vacants o substitucions",
+        "document_url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
+        "document_status": "actualitzat"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "identifier": "MUNSEC_2627_057",
+        "specialty": "PSI",
+        "institution": "Institut del Disseny i Arts Gràfiques de Barcelona",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins al 09/11/2026 a les 14.00 h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "MUNSEC_2627_057 — PSI – ORIENTACIÓ EDUCATIVA-PFI",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_57_I.IDAGB_PSI_PFI.pdf",
+        "document_status": "sense canvis"
+      },
+      {
+        "identifier": "MUNSEC_2627_058",
+        "specialty": "721",
+        "institution": "EA La Industrial",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins al 09/11/2026 a les 14.00 h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "MUNSEC_2627_058 — 721 – Mitjans audiovisuals",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_058_EA_La_Industrial_721.pdf",
+        "document_status": "sense canvis"
+      }
+    ],
     "updated": []
   },
   "collection": {
@@ -1271,7 +1308,7 @@
           {
             "title": "Oferta de vacants.",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "actualitzat"
+            "status": "sense canvis"
           },
           {
             "title": "Vacants i substitucions de professorat especialista",
@@ -1314,7 +1351,7 @@
           {
             "title": "Oferta de vacants o substitucions",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "sense canvis"
+            "status": "actualitzat"
           }
         ]
       },
@@ -1323,9 +1360,14 @@
         "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
         "documents": [
           {
+            "title": "GENSEC_2627_198 — Emergències i Protecció Civil",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_198_ISMB_CoordEmergPC_33.pdf",
+            "status": "nou"
+          },
+          {
             "title": "GENSEC_2627_197 — 815 - Tècniques de joieria",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_197_EA_Llotja_815.pdf",
-            "status": "nou"
+            "status": "sense canvis"
           },
           {
             "title": "MUNSEC_2627_059 — DISSENY GRÀFIC (712)",
@@ -1335,16 +1377,6 @@
           {
             "title": "GENPRI_2627_070 — Docent Primària Pedagogia Terapèutica",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_70__AED.pdf",
-            "status": "sense canvis"
-          },
-          {
-            "title": "MUNSEC_2627_057 — PSI – ORIENTACIÓ EDUCATIVA-PFI",
-            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_57_I.IDAGB_PSI_PFI.pdf",
-            "status": "sense canvis"
-          },
-          {
-            "title": "MUNSEC_2627_058 — 721 – Mitjans audiovisuals",
-            "url": "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_058_EA_La_Industrial_721.pdf",
             "status": "sense canvis"
           },
           {
