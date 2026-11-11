@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "attempted_at": "2026-11-10T20:46:08.853795+00:00",
+  "attempted_at": "2026-11-11T21:17:38.301717+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/42898462369",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/43101710516",
   "errors": [
     {
       "region": "Barcelonès",
