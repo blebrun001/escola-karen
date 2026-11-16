@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T19:43:11.554912+00:00",
+  "generated_at": "2026-11-16T23:20:30.782795+00:00",
   "status": "partial",
   "last_successful_at": "2026-10-05T21:15:13.949228+00:00",
-  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/43753926407",
+  "actions_run_url": "https://github.com/blebrun001/escola-karen/actions/runs/43978326096",
   "targets": [
     "CLA",
     "GE"
   ],
   "summary": {
-    "offers_count": 60,
-    "vacancies_total": 10.0,
+    "offers_count": 61,
+    "vacancies_total": 11.0,
     "active_regions": 4,
     "documents": {
-      "new": 0,
-      "updated": 0,
-      "unchanged": 14,
+      "new": 1,
+      "updated": 1,
+      "unchanged": 13,
       "error": 0,
       "removed": 0
     },
@@ -52,7 +52,7 @@
         {
           "title": "Oferta de vacants.",
           "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-          "status": "sense canvis",
+          "status": "actualitzat",
           "note": "",
           "warning": "No s’ha pogut analitzar el format del PDF."
         },
@@ -210,24 +210,25 @@
     {
       "name": "Barcelona — Consorci d’Educació",
       "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
-      "offers_count": 9,
-      "vacancies_total": 9.0,
+      "offers_count": 10,
+      "vacancies_total": 10.0,
       "top_specialties": [
         {
           "code": "Programa d’Atenció Educativa Domiciliària",
           "count": 3
         },
         {
-          "code": "SCO",
+          "code": "606",
           "count": 1
         },
         {
-          "code": "702",
+          "code": "SCO",
           "count": 1
         }
       ],
       "specialties": {
         "Programa d’Atenció Educativa Domiciliària": 3,
+        "606": 1,
         "SCO": 1,
         "702": 1,
         "EES": 1,
@@ -238,6 +239,13 @@
       "interesting_count": 0,
       "interesting_by_specialty": {},
       "documents": [
+        {
+          "title": "GENSEC_2627_201 — 606 - Instal·lacions electrotècniques",
+          "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_201_Escola_del_Treball_606.pdf",
+          "status": "nou",
+          "note": "",
+          "warning": ""
+        },
         {
           "title": "GENSEC_2627_200 — SCO - Àmbit de la comunicació",
           "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_200_CFA_El_Clot_SCO.pdf",
@@ -971,6 +979,19 @@
       "document_status": "sense canvis"
     },
     {
+      "identifier": "GENSEC_2627_201",
+      "specialty": "606",
+      "institution": "Institut Escola del Treball",
+      "municipality": "Barcelona",
+      "vacancies": 1.0,
+      "deadline": "fins al 18/11/2026 a les 14.00 h",
+      "region": "Barcelona — Consorci d’Educació",
+      "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+      "document_title": "GENSEC_2627_201 — 606 - Instal·lacions electrotècniques",
+      "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_201_Escola_del_Treball_606.pdf",
+      "document_status": "nou"
+    },
+    {
       "identifier": "GENSEC_2627_200",
       "specialty": "SCO",
       "institution": "CFA El Clot",
@@ -1117,7 +1138,21 @@
     }
   ],
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "identifier": "GENSEC_2627_201",
+        "specialty": "606",
+        "institution": "Institut Escola del Treball",
+        "municipality": "Barcelona",
+        "vacancies": 1.0,
+        "deadline": "fins al 18/11/2026 a les 14.00 h",
+        "region": "Barcelona — Consorci d’Educació",
+        "region_page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
+        "document_title": "GENSEC_2627_201 — 606 - Instal·lacions electrotècniques",
+        "document_url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_201_Escola_del_Treball_606.pdf",
+        "document_status": "nou"
+      }
+    ],
     "removed": [],
     "updated": []
   },
@@ -1130,7 +1165,7 @@
           {
             "title": "Oferta de vacants.",
             "url": "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf",
-            "status": "sense canvis"
+            "status": "actualitzat"
           },
           {
             "title": "Vacants i substitucions de professorat especialista",
@@ -1181,6 +1216,11 @@
         "name": "Barcelona — Consorci d’Educació",
         "page_url": "https://www.edubcn.cat/ca/professorat_i_pas/seleccio_rrhh/dificil_cobertura#!/cerca",
         "documents": [
+          {
+            "title": "GENSEC_2627_201 — 606 - Instal·lacions electrotècniques",
+            "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_201_Escola_del_Treball_606.pdf",
+            "status": "nou"
+          },
           {
             "title": "GENSEC_2627_200 — SCO - Àmbit de la comunicació",
             "url": "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_200_CFA_El_Clot_SCO.pdf",
