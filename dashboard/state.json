@@ -1,39 +1,39 @@
 {
-  "last_run": "2026-11-22T20:40:46.061186+00:00",
+  "last_run": "2026-11-24T01:36:35.837838+00:00",
   "documents": {
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants.pdf": {
-      "sha256": "2a8fcae9349105faefcfe3150cc53bd72fb139a0bd78db6ae394add33c30b76b",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "sha256": "a7ef596d792a5a2ee23b15727482191cdc8f8f332e360370c489e7cae61fb16b",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Tarragona"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/penedes/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PEN-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "332a5007e158be2b65ebe8adf50eccea8bf7a0f5e95e18805b0b667860985824",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Penedès"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/baix-llobregat/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/PENDENTS_BLL-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "cf012c7ee9b5f70e115583dc20654b0f2e10b17cd43c9d97f9c0dd9a00c4e5bc",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Baix Llobregat"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/terres-ebre/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TEB-SEC-dificil-cobertura-oferta-vacants.pdf": {
       "sha256": "a2d78686c76cdc64bdc9447c097e55d56d413f603b3a0a9f289fdd16bb6e9baf",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Terres de l’Ebre"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNPRI_2627_1_Escola_Tres_Pins_PRI_LSC.pdf": {
       "sha256": "733fccdd18a92f4e69ef5494dcf215c3ed6844b13f9766f42f4cddfdb729a79b",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_49.pdf": {
       "sha256": "9d16592633464f3752ea10c47675b3780573a34cb4a3ba5af6443156e58affd5",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/tarragona/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/TAR-SEC-dificil-cobertura-oferta-vacants-pe.pdf": {
       "sha256": "48f737a4959fc25fd0c68628bbf9d152323eb221a22c70a0ba18c476ee3e09f7",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Tarragona"
     },
     "https://educacio.gencat.cat/web/.content/home/departament/serveis-territorials/barcelones/personal-docent/nomenaments-telematics/dificil-cobertura/secundaria/Barcelones-SEC-dificil-cobertura-oferta-vacants_0210.pdf": {
@@ -43,37 +43,37 @@
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_65_CEE_LEXIA_EES_SUBS_SENCERA.pdf": {
       "sha256": "5556d3c3cccb835ca838908eca44e1dfeb10de067e78900b95053d9f9e587410",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_198_ISMB_CoordEmergPC.pdf": {
       "sha256": "c3ac18f6f7bf212eefcf0e2b2b7bf007d5e80be4f5568916a58a39d317fa0798",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_177_CEE_LEXIA_PSI_SUBS_RJ.pdf": {
       "sha256": "a01fbf04cfd4c22f6c4414bcea40dbef5f46bed087dce064798e3168ddd30625",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/GENPRI_2627_71_CEE_CONCHA_ESPINA_EES_SU_VA_V2.pdf": {
       "sha256": "4037d8c6f6f6a73037fa1e2d83c686ffd8cf05e2f1e5ad1305326de88fb07197",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
-      "region": "Barcelona — Consorci d’Educació"
-    },
-    "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_204_CFA_Pere_Calders_SCO.pdf": {
-      "sha256": "7f3a7121005b1f8fd56d10d15c4c6fda298558d2aa82031658ca46a11b394478",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
-      "region": "Barcelona — Consorci d’Educació"
-    },
-    "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_203_CFA_El_Clot_SMA.pdf": {
-      "sha256": "d56c9b1137236a1ba4cb163a7cf3aad421210a95c428e5a82d555a61c7334bd0",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Barcelona — Consorci d’Educació"
     },
     "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_058_EA_La_Industrial_721.pdf": {
       "sha256": "cbc33ddd2ccbb3877e4cea556bfa826d3446808709aa43c504860b23957a5d2b",
-      "last_seen": "2026-11-22T20:40:46.061186+00:00",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/MUNSEC_2627_60_Ins_Ferran_Tallada_EF.pdf": {
+      "sha256": "ba8cf29fd17d7b698269ad91dc79c2ac5165c7fc1277f7b4693f763156f4d274",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
+      "region": "Barcelona — Consorci d’Educació"
+    },
+    "https://www.edubcn.cat/rcs_gene/seleccio/GENSEC_2627_199bis_ESCRBC.pdf": {
+      "sha256": "979f1171d91175e0d95427af68e69e51fb59e478f4f8cf5adf5267dc094aef86",
+      "last_seen": "2026-11-24T01:36:35.837838+00:00",
       "region": "Barcelona — Consorci d’Educació"
     }
   }
